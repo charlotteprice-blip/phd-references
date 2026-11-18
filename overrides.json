@@ -1,0 +1,101 @@
+{
+ "_note": "Corrections to Zotero data, keyed by DOI or by normalised title|year. null removes a field.",
+ "fix": {
+  "10.1080/14767430.2020.1734736": {
+   "title": "Critical realism and the ontology of persons"
+  },
+  "10.1002/job.2210": {
+   "container-title": "Journal of Organizational Behavior",
+   "URL": null
+  },
+  "10.3316/ielapa.373278443631252": {
+   "DOI": null,
+   "URL": null,
+   "author": [
+    {
+     "family": "Howes",
+     "given": "Loene M."
+    },
+    {
+     "family": "Goodman-Delahunty",
+     "given": "Jane"
+    }
+   ]
+  },
+  "10.3316/informit.246421063516147": {
+   "DOI": null,
+   "URL": null
+  },
+  "bewareacultureofbusynesscoverstoryharvardbusinessreview|2023": {
+   "title": "Beware a culture of busyness",
+   "type": "article-magazine",
+   "URL": null
+  },
+  "labourmarketstatisticsseptember2023quarterstatsnz|n.d.": {
+   "author": [
+    {
+     "literal": "Stats NZ"
+    }
+   ],
+   "title": "Labour market statistics: September 2023 quarter"
+  },
+  "10.1080/1051712x.2022.2121502": {
+   "issue": "3–4"
+  },
+  "10.3389/fpsyg.2023.1204547": {
+   "number": "1204547"
+  },
+  "10.3389/feduc.2025.1664249": {
+   "number": "1664249"
+  },
+  "10.1080/0158037x.2023.2222068": {
+   "volume": "46",
+   "issue": "2",
+   "page": "266-281"
+  },
+  "10.1108/jwam-07-2023-0062": {
+   "volume": "17",
+   "issue": "1",
+   "page": "34-49"
+  },
+  "10.1002/berj.4149": {
+   "volume": "51",
+   "issue": "4",
+   "page": "1623-1647"
+  },
+  "10.1177/10690727241234929": {
+   "volume": "33",
+   "issue": "1",
+   "page": "3-31"
+  },
+  "10.1007/s10775-023-09593-z": {
+   "volume": "25",
+   "issue": "1",
+   "page": "207-229"
+  },
+  "10.1007/s10775-023-09584-0": {
+   "volume": "24",
+   "issue": "3",
+   "page": "1-24"
+  }
+ },
+ "merge": [],
+ "exclude": [],
+ "properNouns": [
+  "Switzerland",
+  "Swiss",
+  "Zealand",
+  "Oceania",
+  "Oxford",
+  "Covid",
+  "Māori",
+  "Aotearoa",
+  "Europe",
+  "European",
+  "Australia",
+  "Australian",
+  "Black",
+  "New Zealand",
+  "New Zealand Qualifications Framework"
+ ]
+}

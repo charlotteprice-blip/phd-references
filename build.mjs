@@ -119,6 +119,36 @@ function clean(it, idFor) {
   return c
 }
 
+// APA 7 wants titles of articles, books, chapters and reports in sentence case.
+// Only titles that look title-cased are changed; words with two or more capitals
+// (AI, COVID, PhD, McKinsey) and words in overrides.properNouns keep their case.
+const SENTENCE_TYPES = new Set(['article-journal', 'article-magazine', 'article-newspaper', 'book', 'chapter', 'report', 'thesis', 'paper-conference', 'webpage', 'manuscript', 'speech'])
+const proper = new Set((overrides.properNouns || []).map((w) => w.toLowerCase()))
+const titleChanges = []
+
+function looksTitleCase(t) {
+  const words = t.split(/\s+/).slice(1).filter((w) => /^\p{L}{4,}/u.test(w))
+  if (words.length < 2) return false
+  return words.filter((w) => /^\p{Lu}/u.test(w)).length / words.length >= 0.6
+}
+
+const phrases = (overrides.properNouns || []).filter((w) => w.includes(' '))
+function sentenceCase(t) {
+  // APA: capital after a colon, whatever the source casing
+  const capAfterColon = (s) => s.replace(/(:\s+[\p{Pi}"'‘“(]?)(\p{Ll})/gu, (_, a, b) => a + b.toUpperCase())
+  if (!looksTitleCase(t)) return capAfterColon(t)
+  let out = t.replace(/[\p{L}\p{N}'’]+/gu, (word, offset) => {
+    const before = t.slice(0, offset)
+    const isStart = /^[\p{P}\s]*$/u.test(before) || /[:?!.—]\s+[\p{Pi}"'‘“(]?$/u.test(before) || /\s[–-]\s+$/.test(before)
+    if (isStart) return word[0].toUpperCase() + word.slice(1)
+    if ((word.match(/\p{Lu}/gu) || []).length >= 2) return word
+    if (word === 'I' || proper.has(word.toLowerCase())) return word
+    return word.toLowerCase()
+  })
+  for (const ph of phrases) out = out.replace(new RegExp('\\b' + ph.replace(/\s+/g, '\\s+') + '\\b', 'giu'), ph)
+  return capAfterColon(out)
+}
+
 function mergeItems(tagged) {
   // tagged: [{item, docs:Set}]
   const groups = []
@@ -148,6 +178,12 @@ function mergeItems(tagged) {
     const key = doi || titleKey(best)
     if (excluded.has(key)) continue
     let item = clean(best, 'ref-' + createHash('sha1').update(key).digest('hex').slice(0, 10))
+    if (SENTENCE_TYPES.has(item.type) && item.title) {
+      const sc = sentenceCase(item.title)
+      if (sc !== item.title) titleChanges.push(`- ${item.title}\n  ${sc}`)
+      item.title = sc
+    }
+    if (item.type === 'report') delete item.page // APA: no page range for a whole report
     const fix = overrides.fix?.[key]
     if (fix) {
       for (const [k, v] of Object.entries(fix)) {
@@ -280,19 +316,22 @@ const csl = merged.map((m) => m.item).sort((a, b) => firstAuthor(a).localeCompar
 // keep the "last updated" date unless the list itself changed
 const hash = createHash('sha1').update(JSON.stringify(entries)).digest('hex')
 const prev = read('build-info.json', {})
-const updated = prev.hash === hash && prev.updated ? prev.updated : new Date().toISOString().slice(0, 10)
+const updated = prev.hash === hash && prev.updated ? prev.updated : new Date().toLocaleDateString('en-CA')
 const updatedLong = longDate(new Date(updated + 'T12:00:00'))
 const builtFrom = docs.map((d) => `${d.label} (v${d.version})`).join(', ')
 
 writeFileSync(join(here, 'references.json'), JSON.stringify(csl.map(({ _aliases, ...r }) => r), null, 1) + '\n')
-writeFileSync(join(here, 'build-info.json'), JSON.stringify({ updated, hash, count: entries.length, builtFrom }, null, 1) + '\n')
+writeFileSync(join(here, 'build-info.json'), JSON.stringify({ updated, hash, count: entries.length }, null, 1) + '\n')
 
 const md = [
+  '<picture>',
+  '  <source media="(prefers-color-scheme: dark)" srcset="assets/cpc-lockup-cream.svg">',
+  '  <img src="assets/cpc-lockup-ink.svg" alt="Charlotte Price Consulting" width="153">',
+  '</picture>',
+  '',
   '# Reference list',
   '',
   `APA 7th edition. ${entries.length} references. Last updated ${updatedLong}.`,
-  '',
-  `Built from the current drafts of: ${builtFrom}.`,
   '',
   'Web version with search: <https://charlotteprice-blip.github.io/phd-references/>. To import into Zotero, Mendeley or EndNote, download [references.json](references.json) (CSL JSON).',
   '',
@@ -313,7 +352,6 @@ writeFileSync(
   readFileSync(join(here, 'template.html'), 'utf8')
     .replace('{{COUNT}}', String(entries.length))
     .replace('{{UPDATED}}', updatedLong)
-    .replace('{{BUILT_FROM}}', esc(builtFrom))
     .replace('{{ENTRIES}}', lis),
 )
 
@@ -333,6 +371,9 @@ writeFileSync(
     '',
     "## Lines in a document's own reference list with no matching reference",
     report.unmatchedPlain.join('\n\n') || 'None.',
+    '',
+    '## Titles changed to sentence case',
+    titleChanges.join('\n') || 'None.',
     '',
     '## Journal articles with no DOI',
     noDoi.join('\n') || 'None.',
