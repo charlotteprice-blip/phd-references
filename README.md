@@ -13,7 +13,7 @@ Web version with search: <https://charlotteprice-blip.github.io/phd-references/>
 
 Ahmad, B., Bilal, S., & Latif, S. (2026). Managerial egocentricity and subordinates’ career sustainability: The role of emotional disengagement. *Journal of Career Development*, *53*(2), 234–248. <https://doi.org/10.1177/08948453261416055>
 
-Akkermans, J., Collings, D. G., da Motta Veiga, S. P., Post, C., & Seibert, S. (2021). Toward a broader understanding of career shocks: Exploring interdisciplinary connections with research on job search, human resource management, entrepreneurship, and diversity. *Journal of Vocational Behavior, 50th Anniversary Issue*, *126*, Article 103563. <https://doi.org/10.1016/j.jvb.2021.103563>
+Akkermans, J., Collings, D. G., da Motta Veiga, S. P., Post, C., & Seibert, S. (2021). Toward a broader understanding of career shocks: Exploring interdisciplinary connections with research on job search, human resource management, entrepreneurship, and diversity. *Journal of Vocational Behavior*, *126*, Article 103563. <https://doi.org/10.1016/j.jvb.2021.103563>
 
 Akkermans, J., da Motta Veiga, S. P., Hirschi, A., & Marciniak, J. (2024). Career transitions across the lifespan: A review and research agenda. *Journal of Vocational Behavior*, *148*, Article 103957. <https://doi.org/10.1016/j.jvb.2023.103957>
 
@@ -27,7 +27,7 @@ Allen, K. S., Grelle, D., Lazarus, E. M., Popp, E., & Gutierrez, S. L. (2024). H
 
 Alon, L. (2023). Information seeking and personal information management behaviors as scaffolding during life transitions: The case of early-career researchers. *Aslib Journal of Information Management*, *77*(2), 354–372. <https://doi.org/10.1108/ajim-01-2023-0027>
 
-Amirul, S. R., Ahmad, S. N. B., & Nasip, S. (2023). Organisational culture and dynamic marketing capabilities in the digital age of pandemic crisis. In B. Alareeni & A. Hamdan (Eds.), *Impact of artificial intelligence, and the fourth industrial revolution on business success* (pp. 317–331). Springer International Publishing. <https://doi.org/10.1007/978-3-031-08093-7_21>
+Amirul, S. R., Ahmad, S. N. B., & Nasip, S. (2023). Organisational culture and dynamic marketing capabilities in the digital age of pandemic crisis. In B. Alareeni & A. Hamdan (Eds.), *Impact of artificial intelligence, and the Fourth Industrial Revolution on business success* (pp. 317–331). Springer International Publishing. <https://doi.org/10.1007/978-3-031-08093-7_21>
 
 Amitai, A., & Van Houtte, M. (2022). Being pushed out of the career: Former teachers’ reasons for leaving the profession. *Teaching and Teacher Education*, *110*, Article 103540. <https://doi.org/10.1016/j.tate.2021.103540>
 
@@ -41,7 +41,7 @@ Balsvik, E. (2017). Interpretivism, first-person authority, and confabulation. *
 
 Baptiste, N. R. (2008). Tightening the link between employee wellbeing at work and performance: A new dimension for HRM. *Management Decision*, *46*(2), 284–309. <https://doi.org/10.1108/00251740810854168>
 
-Barthauer, L., Kaucher, P., Spurk, D., & Kauffeld, S. (2020). Burnout and career (un)sustainability: Looking into the Blackbox of burnout triggered career turnover intentions. *Journal of Vocational Behavior, Sustainable Careers across the Lifespan: A Contemporary Perspective*, *117*, Article 103334. <https://doi.org/10.1016/j.jvb.2019.103334>
+Barthauer, L., Kaucher, P., Spurk, D., & Kauffeld, S. (2020). Burnout and career (un)sustainability: Looking into the Blackbox of burnout triggered career turnover intentions. *Journal of Vocational Behavior*, *117*, Article 103334. <https://doi.org/10.1016/j.jvb.2019.103334>
 
 Bartram, T., Cooper, B., Cooke, F. L., & Wang, J. (2023). Thriving in the face of burnout? The effects of wellbeing-oriented HRM on the relationship between workload, burnout, thriving and performance. *Employee Relations: The International Journal*, *45*(5), 1234–1253. <https://doi.org/10.1108/ER-06-2022-0273>
 
@@ -65,7 +65,7 @@ Braun, V., & Clarke, V. (2021). Can I use TA? Should I use TA? Should I not use 
 
 Braun, V., & Clarke, V. (2022). *Thematic analysis: A practical guide*. SAGE.
 
-Braun, V., & Clarke, V. (2023). Thematic analysis. In *APA handbook of research methods in psychology: Research designs: Quantitative, qualitative, neuropsychological, and biological., Vol. 2, 2nd ed.* (pp. 65–81). American Psychological Association. (2023-78956-004). <https://doi.org/10.1037/0000319-004>
+Braun, V., & Clarke, V. (2023). Thematic analysis. In H. Cooper, M. N. Coutanche, L. M. McMullen, A. T. Panter, D. Rindskopf, & K. J. Sher (Eds.), *APA handbook of research methods in psychology: Vol. 2. Research designs: Quantitative, qualitative, neuropsychological, and biological* (2nd ed., pp. 65–81). American Psychological Association. (2023-78956-004). <https://doi.org/10.1037/0000319-004>
 
 Broderick, E. (2023). *Independent review into workplace culture at EY Oceania* \[Independent Review\]. EY. <https://assets.ey.com/content/dam/ey-sites/ey-com/en_au/pdfs/ey-ebco_ey-report-270723.pdf>
 
@@ -91,7 +91,7 @@ Consultancy.in. (2024, March 18). *Young McKinsey consultant commits suicide due
 
 Cortellazzo, L., Bonesso, S., Gerli, F., & Batista-Foguet, J. M. (2020). Protean career orientation: Behavioral antecedents and employability outcomes. *Journal of Vocational Behavior*, *116*, Article 103343. <https://doi.org/10.1016/j.jvb.2019.103343>
 
-Coupland, C. (2004). Career definition and denial: A discourse analysis of graduate trainees’ accounts of career. *Journal of Vocational Behavior, Special Issue on Constructivism, Social Constructionism and Career*, *64*(3), 515–532. <https://doi.org/10.1016/j.jvb.2003.12.013>
+Coupland, C. (2004). Career definition and denial: A discourse analysis of graduate trainees’ accounts of career. *Journal of Vocational Behavior*, *64*(3), 515–532. <https://doi.org/10.1016/j.jvb.2003.12.013>
 
 Crossman, J. (2022). *Workplace communication: Promoting workplace wellbeing and interpersonal relationships in multicultural contexts*. Routledge.
 
@@ -107,7 +107,7 @@ De Vos, A., & van der Heijden, B. (2017). Current thinking on contemporary caree
 
 De Vos, A., & Van der Heijden, B. I. J. M. (Eds.). (2015). *Handbook of research on sustainable careers*. Edward Elgar. <https://doi.org/10.4337/9781782547037>
 
-De Vos, A., Van der Heijden, B. I. J. M., & Akkermans, J. (2020). Sustainable careers: Towards a conceptual model. *Journal of Vocational Behavior, Sustainable Careers across the Lifespan: A Contemporary Perspective*, *117*, Article 103196. <https://doi.org/10.1016/j.jvb.2018.06.011>
+De Vos, A., Van der Heijden, B. I. J. M., & Akkermans, J. (2020). Sustainable careers: Towards a conceptual model. *Journal of Vocational Behavior*, *117*, Article 103196. <https://doi.org/10.1016/j.jvb.2018.06.011>
 
 Demerouti, E., Bakker, A. B., Nachreiner, F., & Schaufeli, W. B. (2001). The job demands-resources model of burnout. *Journal of Applied Psychology*, *86*(3), 499–512. <https://doi.org/10.1037/0021-9010.86.3.499>
 
@@ -135,7 +135,7 @@ Felix, B., & Hennekam, S. (2025). The unsustainable nature of the career ecosyst
 
 Fleetwood, S. (2005). Ontology in organization and management studies: A critical realist perspective. *Organization*, *12*(2), 197–222. <https://doi.org/10.1177/1350508405051188>
 
-Fouad, N. A. (2021). Fiftieth anniversary issue: Editor-in-Chief’s introduction to the special issue. *Journal of Vocational Behavior, 50th Anniversary Issue*, *126*, Article 103567. <https://doi.org/10.1016/j.jvb.2021.103567>
+Fouad, N. A. (2021). Fiftieth anniversary issue: Editor-in-Chief’s introduction to the special issue. *Journal of Vocational Behavior*, *126*, Article 103567. <https://doi.org/10.1016/j.jvb.2021.103567>
 
 Frechette, J., Bitzas, V., Aubry, M., Kilpatrick, K., & Lavoie-Tremblay, M. (2020). Capturing lived experience: Methodological considerations for interpretive phenomenological inquiry. *International Journal of Qualitative Methods*, *19*, Article 1609406920907254. <https://doi.org/10.1177/1609406920907254>
 
@@ -195,7 +195,7 @@ Jenkins, C. s. (2010). What is ontological realism? *Philosophy Compass*, *5*(10
 
 Kahneman, D. (2011). *Thinking, fast and slow*. Macmillan.
 
-Kallschmidt, A. M., & Eaton, A. A. (2019). Are lower social class origins stigmatized at work? A qualitative study of social class concealment and disclosure among White men employees who experienced upward mobility. *Journal of Vocational Behavior, Managing Visibility and Invisibility in the Workplace*, *113*, 115–128. <https://doi.org/10.1016/j.jvb.2018.08.010>
+Kallschmidt, A. M., & Eaton, A. A. (2019). Are lower social class origins stigmatized at work? A qualitative study of social class concealment and disclosure among White men employees who experienced upward mobility. *Journal of Vocational Behavior*, *113*, 115–128. <https://doi.org/10.1016/j.jvb.2018.08.010>
 
 Kavanaugh, K., & Ayres, L. (1998). “Not as bad as it could have been”: Assessing and mitigating harm during research interviews on sensitive topics. *Research in Nursing & Health*, *21*(1), 91–97. <https://doi.org/10.1002/(SICI)1098-240X(199802)21:1<91::AID-NUR10>3.0.CO;2-C>
 
@@ -243,9 +243,9 @@ Maslach, C., & Leiter, M. P. (2016). Understanding the burnout experience: Recen
 
 Mason, M. (2010). Sample size and saturation in PhD studies using qualitative interviews. *Forum Qualitative Sozialforschung / Forum: Qualitative Social Research*, *11*(3), Article 8. <https://doi.org/10.17169/fqs-11.3.1428>
 
-McMahon, M., Watson, M., & Bimrose, J. (2012). Career adaptability: A qualitative understanding from the stories of older women. *Journal of Vocational Behavior, Career Adaptability*, *80*(3), 762–768. <https://doi.org/10.1016/j.jvb.2012.01.016>
+McMahon, M., Watson, M., & Bimrose, J. (2012). Career adaptability: A qualitative understanding from the stories of older women. *Journal of Vocational Behavior*, *80*(3), 762–768. <https://doi.org/10.1016/j.jvb.2012.01.016>
 
-McMahon, M., Watson, M., & Lee, M. C. Y. (2019). Qualitative career assessment: A review and reconsideration. *Journal of Vocational Behavior, Review Issue 2017/18 (Annual Issue)*, *110*, 420–432. <https://doi.org/10.1016/j.jvb.2018.03.009>
+McMahon, M., Watson, M., & Lee, M. C. Y. (2019). Qualitative career assessment: A review and reconsideration. *Journal of Vocational Behavior*, *110*, 420–432. <https://doi.org/10.1016/j.jvb.2018.03.009>
 
 McSweeney, B. (2021). Fooling ourselves and others: Confirmation bias and the trustworthiness of qualitative research – Part 1 (the threats). *Journal of Organizational Change Management*, *34*(5), 1063–1075. <https://doi.org/10.1108/JOCM-04-2021-0117>
 

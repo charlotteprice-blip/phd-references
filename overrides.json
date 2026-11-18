@@ -282,6 +282,39 @@
    "event-title": "European Association of Work and Organizational Psychology Congress",
    "event-place": "Katowice, Poland",
    "container-title": null
+  },
+  "10.1037/0000319-004": {
+   "container-title": "APA handbook of research methods in psychology: Vol. 2. Research designs: Quantitative, qualitative, neuropsychological, and biological",
+   "edition": "2",
+   "collection-title": null,
+   "volume": null,
+   "number": null,
+   "editor": [
+    {
+     "family": "Cooper",
+     "given": "H."
+    },
+    {
+     "family": "Coutanche",
+     "given": "M. N."
+    },
+    {
+     "family": "McMullen",
+     "given": "L. M."
+    },
+    {
+     "family": "Panter",
+     "given": "A. T."
+    },
+    {
+     "family": "Rindskopf",
+     "given": "D."
+    },
+    {
+     "family": "Sher",
+     "given": "K. J."
+    }
+   ]
   }
  },
  "merge": [],
@@ -301,6 +334,7 @@
   "Australian",
   "Black",
   "New Zealand",
-  "New Zealand Qualifications Framework"
+  "New Zealand Qualifications Framework",
+  "Fourth Industrial Revolution"
  ]
 }

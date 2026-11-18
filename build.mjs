@@ -199,6 +199,8 @@ function mergeItems(tagged) {
       if (/^0+$/.test(String(item.volume || ''))) delete item.volume
     }
     if (/^sage\b/i.test(item.publisher || '')) item.publisher = 'SAGE'
+    // special issue names that Zotero appends to the journal title
+    if (item.type === 'article-journal') delete item['collection-title']
     if (['chapter', 'paper-conference'].includes(item.type) && item['container-title']) item['container-title'] = sentenceCase(item['container-title'])
     if (item.edition) item.edition = String(item.edition).replace(/^(\d+)(st|nd|rd|th)?( edition| ed\.?)?$/i, '$1')
     const fix = overrides.fix?.[key]
