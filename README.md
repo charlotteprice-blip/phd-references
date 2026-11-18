@@ -65,7 +65,7 @@ Braun, V., & Clarke, V. (2021). Can I use TA? Should I use TA? Should I not use 
 
 Braun, V., & Clarke, V. (2022). *Thematic analysis: A practical guide*. SAGE.
 
-Braun, V., & Clarke, V. (2023). Thematic analysis. In H. Cooper, M. N. Coutanche, L. M. McMullen, A. T. Panter, D. Rindskopf, & K. J. Sher (Eds.), *APA handbook of research methods in psychology: Vol. 2. Research designs: Quantitative, qualitative, neuropsychological, and biological* (2nd ed., pp. 65–81). American Psychological Association. (2023-78956-004). <https://doi.org/10.1037/0000319-004>
+Braun, V., & Clarke, V. (2023). Thematic analysis. In H. Cooper, M. N. Coutanche, L. M. McMullen, A. T. Panter, D. Rindskopf, & K. J. Sher (Eds.), *APA handbook of research methods in psychology: Vol. 2. Research designs: Quantitative, qualitative, neuropsychological, and biological* (2nd ed., pp. 65–81). American Psychological Association. <https://doi.org/10.1037/0000319-004>
 
 Broderick, E. (2023). *Independent review into workplace culture at EY Oceania* \[Independent Review\]. EY. <https://assets.ey.com/content/dam/ey-sites/ey-com/en_au/pdfs/ey-ebco_ey-report-270723.pdf>
 
@@ -79,7 +79,7 @@ Cha, J., Kim, Y., & Kim, T.-Y. (2009). Person-career fit and employee outcomes a
 
 Chan, X. W., Shang, S., Brough, P., Wilkinson, A., & Lu, C. (2023). Work, life and COVID-19: A rapid review and practical recommendations for the post-pandemic workplace. *Asia Pacific Journal of Human Resources*, *61*(2), 257–276. <https://doi.org/10.1111/1744-7941.12355>
 
-Chowdhury, N., Gibson, K., & Wetherell, M. (2020). Polyphonies of depression: The relationship between voices-of-the-self in young professional women aka ‘top girls.’ *Health: An Interdisciplinary Journal for the Social Study of Health, Illness and Medicine*, *24*(6), 773–790. (2020-61246-009). <https://doi.org/10.1177/1363459319846934>
+Chowdhury, N., Gibson, K., & Wetherell, M. (2020). Polyphonies of depression: The relationship between voices-of-the-self in young professional women aka ‘top girls.’ *Health: An Interdisciplinary Journal for the Social Study of Health, Illness and Medicine*, *24*(6), 773–790. <https://doi.org/10.1177/1363459319846934>
 
 Chudzikowski, K., Gustafsson, S., & Tams, S. (2020). Constructing alignment for sustainable careers: Insights from the career narratives of management consultants. *Journal of Vocational Behavior*, *117*, Article 103312. <https://doi.org/10.1016/j.jvb.2019.05.009>
 
@@ -283,7 +283,7 @@ Pietilä, A.-M., Nurmi, S.-M., Halkoaho, A., & Kyngäs, H. (2020). Qualitative r
 
 Point, S., & Baruch, Y. (2023). (Re)thinking transcription strategies: Current challenges and future research directions. *Scandinavian Journal of Management*, *39*(2), Article 101272. <https://doi.org/10.1016/j.scaman.2023.101272>
 
-Ponterotto, J. G. (2005). Qualitative research in counseling psychology: A primer on research paradigms and philosophy of science. *Journal of Counseling Psychology*, *52*(2), 126–136. (edsgcl.131857976). <https://doi.org/10.1037/0022-0167.52.2.126>
+Ponterotto, J. G. (2005). Qualitative research in counseling psychology: A primer on research paradigms and philosophy of science. *Journal of Counseling Psychology*, *52*(2), 126–136. <https://doi.org/10.1037/0022-0167.52.2.126>
 
 Portocarrero Ramos, H. C., Campos Trigoso, J. A., Cruz Caro, O., Reina Marín, Y., Maicelo Guevara, J. L., Sánchez Bardales, E., & Chávez Santos, R. (2025). Career paths and university education: Factors that determine the employment status of university graduates. *Frontiers in Education*, *10*, Article 1664249. <https://doi.org/10.3389/feduc.2025.1664249>
 
@@ -293,7 +293,7 @@ Pretorius, L. (2024). Demystifying research paradigms: Navigating ontology, epis
 
 Price, C. J. (2023). *Thriving, not just surviving: Examining perceived support, mental illness disclosure, and individual workplace well-being* \[Dissertation, University of Canterbury\]. <https://ir.canterbury.ac.nz/server/api/core/bitstreams/e767e226-7b01-45ac-a16a-45933bb70ee0/content>
 
-Procter‐Legg, T., Snell, R. J. S., & Klassen, R. M. (2025). The five‐year itch: Motivational factors that influence the career decisions of early career teachers in England. *British Educational Research Journal*, *51*(4), 1623–1647. (183806701). <https://doi.org/10.1002/berj.4149>
+Procter‐Legg, T., Snell, R. J. S., & Klassen, R. M. (2025). The five‐year itch: Motivational factors that influence the career decisions of early career teachers in England. *British Educational Research Journal*, *51*(4), 1623–1647. <https://doi.org/10.1002/berj.4149>
 
 Quendler, E., & Lamb, M. J. (2016). Learning as a lifelong process - meeting the challenges of the changing employability landscape: Competences, skills and knowledge for sustainable development. *International Journal of Continuing Engineering Education and Life-Long Learning*, *26*(3), 273. <https://doi.org/10.1504/ijceell.2016.078447>
 

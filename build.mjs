@@ -116,6 +116,7 @@ function clean(it, idFor) {
   const c = { ...it }
   delete c.citationKey
   delete c.note // Zotero packs extra fields into note ("page: 461"), which citeproc would print
+  delete c.archive_location // database accession numbers, not part of an APA reference
   // APA: no database or search-engine URLs
   if (/ebscohost|scopus\.com|scholar\.google|search\.informit|proquest\.com\/docview|search\.proquest/i.test(c.URL || '')) delete c.URL
   if (c.number && c.issue && String(c.number) === String(c.issue)) delete c.number
