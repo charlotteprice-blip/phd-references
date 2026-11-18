@@ -115,6 +115,11 @@ const richness = (it) => Object.keys(it).length + (doiOf(it) ? 10 : 0)
 function clean(it, idFor) {
   const c = { ...it }
   delete c.citationKey
+  delete c.note // Zotero packs extra fields into note ("page: 461"), which citeproc would print
+  // APA: no database or search-engine URLs
+  if (/ebscohost|scopus\.com|scholar\.google|search\.informit|proquest\.com\/docview|search\.proquest/i.test(c.URL || '')) delete c.URL
+  if (c.number && c.issue && String(c.number) === String(c.issue)) delete c.number
+  if (c.title) c.title = c.title.replace(/\s*\.\s*$/, '')
   c.id = idFor
   return c
 }
@@ -184,6 +189,18 @@ function mergeItems(tagged) {
       item.title = sc
     }
     if (item.type === 'report') delete item.page // APA: no page range for a whole report
+    if (item.type === 'article-journal') {
+      // APA: an e-locator is shown as "Article 103563", not as a page
+      if (!item.number && /^(\d{4,}|e\d+)$/i.test(String(item.page || ''))) {
+        item.number = String(item.page)
+        delete item.page
+      }
+      if (/^0+$/.test(String(item.issue || ''))) delete item.issue
+      if (/^0+$/.test(String(item.volume || ''))) delete item.volume
+    }
+    if (/^sage\b/i.test(item.publisher || '')) item.publisher = 'SAGE'
+    if (['chapter', 'paper-conference'].includes(item.type) && item['container-title']) item['container-title'] = sentenceCase(item['container-title'])
+    if (item.edition) item.edition = String(item.edition).replace(/^(\d+)(st|nd|rd|th)?( edition| ed\.?)?$/i, '$1')
     const fix = overrides.fix?.[key]
     if (fix) {
       for (const [k, v] of Object.entries(fix)) {
@@ -350,9 +367,9 @@ const lis = entries
 writeFileSync(
   join(here, 'index.html'),
   readFileSync(join(here, 'template.html'), 'utf8')
-    .replace('{{COUNT}}', String(entries.length))
-    .replace('{{UPDATED}}', updatedLong)
-    .replace('{{ENTRIES}}', lis),
+    .replaceAll('{{COUNT}}', String(entries.length))
+    .replaceAll('{{UPDATED}}', updatedLong)
+    .replaceAll('{{ENTRIES}}', lis),
 )
 
 const noDoi = merged

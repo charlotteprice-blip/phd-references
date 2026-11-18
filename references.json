@@ -28,7 +28,11 @@
      12
     ]
    ]
-  }
+  },
+  "DOI": "10.1177/08948453261416055",
+  "volume": "53",
+  "issue": "2",
+  "page": "234-248"
  },
  {
   "id": "ref-245178fe99",
@@ -38,7 +42,6 @@
   "DOI": "10.1016/j.jvb.2023.103957",
   "ISSN": "0001-8791",
   "journalAbbreviation": "Journal of Vocational Behavior",
-  "page": "103957",
   "source": "ScienceDirect",
   "title": "Career transitions across the lifespan: A review and research agenda",
   "title-short": "Career transitions across the lifespan",
@@ -80,7 +83,8 @@
      1
     ]
    ]
-  }
+  },
+  "number": "103957"
  },
  {
   "id": "ref-2fa3d71310",
@@ -90,7 +94,6 @@
   "DOI": "10.1108/CDI-07-2021-0172",
   "ISSN": "1362-0436",
   "issue": "4",
-  "note": "publisher: Emerald Publishing Limited",
   "page": "453-466",
   "source": "Emerald Insight",
   "title": "The role of career shocks in contemporary career development: Key challenges and ways forward",
@@ -145,9 +148,7 @@
   "container-title": "SA Journal of Industrial Psychology",
   "DOI": "10.4102/sajip.v44i0.1503",
   "ISSN": "0258-5200, 2071-0763",
-  "issue": "0",
   "language": "en",
-  "note": "number: 0\npublisher: AOSIS",
   "page": "e1-e10",
   "source": "doaj.org",
   "title": "Tales of the unexpected: Integrating career shocks in the contemporary careers literature",
@@ -185,7 +186,8 @@
      1
     ]
    ]
-  }
+  },
+  "number": "1503"
  },
  {
   "id": "ref-57403493e5",
@@ -196,7 +198,6 @@
   "DOI": "10.1016/j.jvb.2021.103563",
   "ISSN": "0001-8791",
   "journalAbbreviation": "Journal of Vocational Behavior",
-  "page": "103563",
   "source": "ScienceDirect",
   "title": "Toward a broader understanding of career shocks: Exploring interdisciplinary connections with research on job search, human resource management, entrepreneurship, and diversity",
   "title-short": "Toward a broader understanding of career shocks",
@@ -242,7 +243,8 @@
      1
     ]
    ]
-  }
+  },
+  "number": "103563"
  },
  {
   "id": "ref-e8d2ad83a5",
@@ -252,7 +254,6 @@
   "DOI": "10.1016/j.jvb.2020.103431",
   "ISSN": "0001-8791",
   "journalAbbreviation": "Journal of Vocational Behavior",
-  "page": "103431",
   "source": "ScienceDirect",
   "title": "Keeping an insecure career under control: The longitudinal interplay of career insecurity, self-management, and self-efficacy",
   "title-short": "Keeping an insecure career under control",
@@ -285,7 +286,8 @@
      1
     ]
    ]
-  }
+  },
+  "number": "103431"
  },
  {
   "id": "ref-6e81a98797",
@@ -295,7 +297,6 @@
   "DOI": "10.1016/j.paid.2023.112459",
   "ISSN": "0191-8869",
   "journalAbbreviation": "Personality and Individual Differences",
-  "page": "112459",
   "source": "ScienceDirect",
   "title": "Hybrid is here to stay: Critical behaviors for success in the new world of work",
   "title-short": "Hybrid is here to stay",
@@ -340,7 +341,8 @@
      1
     ]
    ]
-  }
+  },
+  "number": "112459"
  },
  {
   "type": "article-journal",
@@ -379,7 +381,7 @@
   "type": "paper-conference",
   "abstract": "In the wake of the unprecedented global pandemic of Covid-19, most businesses are pressing on sustaining their business continuity as they are forced to create rigorous emergency plans to limit the impact of COVID-19. The focal point of this paper is to provide constructive reviews on the potential shifts in organisational culture and its interrelationship with dynamic marketing capabilities as a result of the digital acceleration brought by the pandemic crisis. The resource-based theory is utilised as a foundation to better understand the interrelationships between organisational culture (OC) and dynamic marketing capabilities (DMC). From this critical review, a conceptual framework was developed to grasp of the linkages between OC and DMC. The originality of this paper’s conceptual framework suggests that organisations must enhance their flexibility to obtain competitive advantage and to keep up with the rapid acceleration of the digital transformation. Organisational culture is an essential set of guidelines that contribute to the organisation's cultural network. The combination resource-based and R-A theories emphasised the relevance of intangible talents, such as human abilities, as key components of supporting dynamic marketing capabilities. Organisational culture must support employees’ spiritual development to have valued and rare workers, which can strengthen the organisational dynamic marketing capabilities and strategies. The paper’s critical reviews may be of assistance to organisations in adapting and developing a dynamic work environment in the midst of the pandemic’s rapidly approaching digital era.",
   "collection-title": "Lecture Notes in Networks and Systems",
-  "container-title": "Impact of Artificial Intelligence, and the Fourth Industrial Revolution on Business Success",
+  "container-title": "Impact of artificial intelligence, and the fourth industrial revolution on business success",
   "DOI": "10.1007/978-3-031-08093-7_21",
   "event-place": "Cham",
   "ISBN": "978-3-031-08093-7",
@@ -448,7 +450,6 @@
   ],
   "container-title": "Teaching and Teacher Education",
   "volume": "110",
-  "page": "103540",
   "article-number": "103540",
   "DOI": "10.1016/j.tate.2021.103540",
   "issued": {
@@ -460,7 +461,8 @@
    ]
   },
   "publisher": "Elsevier BV",
-  "id": "ref-9f085ca2f2"
+  "id": "ref-9f085ca2f2",
+  "number": "103540"
  },
  {
   "type": "article-journal",
@@ -529,7 +531,6 @@
   "container-title": "Annual Review of Organizational Psychology and Organizational Behavior",
   "DOI": "10.1146/annurev-orgpsych-120920-053933",
   "issue": "1",
-  "note": "_eprint: https://doi.org/10.1146/annurev-orgpsych-120920-053933",
   "page": "25-53",
   "source": "Annual Reviews",
   "title": "Job demands–resources theory: Ten years later",
@@ -577,7 +578,7 @@
   "issue": "4-5",
   "language": "EN",
   "page": "311-329",
-  "publisher": "SAGE Publications Inc",
+  "publisher": "SAGE",
   "source": "SAGE Journals",
   "title": "Interpretivism, first-person authority, and confabulation",
   "URL": "https://doi.org/10.1177/0048393117705297",
@@ -615,7 +616,6 @@
   "DOI": "10.1108/00251740810854168",
   "ISSN": "0025-1747",
   "issue": "2",
-  "note": "number: 2\npublisher: Emerald Group Publishing Limited",
   "page": "284-309",
   "source": "Emerald Insight",
   "title": "Tightening the link between employee wellbeing at work and performance: A new dimension for HRM",
@@ -656,7 +656,6 @@
   "DOI": "10.1016/j.jvb.2019.103334",
   "ISSN": "0001-8791",
   "journalAbbreviation": "Journal of Vocational Behavior",
-  "page": "103334",
   "source": "ScienceDirect",
   "title": "Burnout and career (un)sustainability: Looking into the Blackbox of burnout triggered career turnover intentions",
   "title-short": "Burnout and career (un)sustainability",
@@ -697,7 +696,8 @@
      1
     ]
    ]
-  }
+  },
+  "number": "103334"
  },
  {
   "id": "ref-1e7c7b1490",
@@ -707,7 +707,6 @@
   "DOI": "10.1108/ER-06-2022-0273",
   "ISSN": "0142-5455",
   "issue": "5",
-  "note": "number: 5\npublisher: Emerald Publishing Limited",
   "page": "1234-1253",
   "source": "Emerald Insight",
   "title": "Thriving in the face of burnout? The effects of wellbeing-oriented HRM on the relationship between workload, burnout, thriving and performance",
@@ -758,7 +757,6 @@
   "container-title": "Annual Review of Organizational Psychology and Organizational Behavior",
   "DOI": "10.1146/annurev-orgpsych-110721-041023",
   "issue": "1",
-  "note": "_eprint: https://doi.org/10.1146/annurev-orgpsych-110721-041023",
   "page": "337-361",
   "source": "Annual Reviews",
   "title": "Implications of social media for a changing work landscape",
@@ -803,7 +801,6 @@
   "DOI": "10.1080/14767430.2020.1734736",
   "ISSN": "1476-7430",
   "issue": "2",
-  "note": "_eprint: https://doi.org/10.1080/14767430.2020.1734736",
   "page": "113-120",
   "publisher": "Routledge",
   "source": "Taylor and Francis+NEJM",
@@ -898,7 +895,6 @@
   "DOI": "10.1080/01446193.2022.2110602",
   "ISSN": "0144-6193",
   "issue": "10",
-  "note": "number: 10\npublisher: Routledge\n_eprint: https://doi.org/10.1080/01446193.2022.2110602",
   "page": "835-853",
   "source": "Taylor and Francis+NEJM",
   "title": "Contributing factors to turnover intentions of early career project management professionals in construction",
@@ -1005,7 +1001,7 @@
     ]
    ]
   },
-  "publisher": "SAGE Publications",
+  "publisher": "SAGE",
   "id": "ref-4ca318008c"
  },
  {
@@ -1022,7 +1018,6 @@
   "publisher-place": "Washington, DC",
   "source": "EBSCOhost",
   "title": "Thematic analysis",
-  "URL": "https://search.ebscohost.com/login.aspx?direct=true&AuthType=shib&db=pzh&AN=2023-78956-004&site=ehost-live&custid=s1165276",
   "author": [
    {
     "family": "Braun",
@@ -1058,7 +1053,6 @@
   "DOI": "10.1191/1478088706qp063oa",
   "ISSN": "1478-0887",
   "issue": "2",
-  "note": "_eprint: https://www.tandfonline.com/doi/pdf/10.1191/1478088706qp063oa",
   "page": "77–101",
   "publisher": "Routledge",
   "source": "Taylor and Francis+NEJM",
@@ -1104,7 +1098,6 @@
   "issue": "1",
   "language": "en",
   "license": "© 2020 British Association for Counselling and Psychotherapy",
-  "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/capr.12360",
   "page": "37-47",
   "source": "Wiley Online Library",
   "title": "Can I use TA? Should I use TA? Should I not use TA? Comparing reflexive thematic analysis and other pattern-based qualitative analytic approaches",
@@ -1170,21 +1163,18 @@
  {
   "id": "ref-9b813a39b3",
   "type": "book",
-  "edition": "First Edition.",
   "ISBN": "978-1-4462-8102-4",
   "language": "eng",
-  "publisher": "SAGE LTD",
+  "publisher": "SAGE",
   "publisher-place": "London",
   "source": "discovered.ed.ac.uk",
-  "title": "Successful qualitative research: A practical guide for beginners / Virginia Braun & Victoria Clarke.",
+  "title": "Successful qualitative research: A practical guide for beginners",
   "title-short": "Successful qualitative research",
   "author": [
    {
     "family": "Braun",
     "given": "Virginia"
-   }
-  ],
-  "contributor": [
+   },
    {
     "family": "Clarke",
     "given": "Victoria"
@@ -1232,12 +1222,10 @@
   "DOI": "10.1080/1051712X.2022.2121502",
   "ISSN": "1051712X",
   "issue": "3–4",
-  "note": "number: 3/4",
   "page": "353-368",
   "source": "EBSCOhost",
   "title": "Should I stay or should I go? The cascading impact of performance pressure on supervisor bottom-line mentality and salesperson hypervigilant decision making, emotional exhaustion, and engagement",
   "title-short": "Should I Stay or Should I Go?",
-  "URL": "https://search.ebscohost.com/login.aspx?direct=true&AuthType=shib&db=a9h&AN=159686814&site=ehost-live&custid=s1165276",
   "volume": "29",
   "author": [
    {
@@ -1279,7 +1267,6 @@
   "DOI": "10.1016/j.jvb.2022.103743",
   "ISSN": "0001-8791",
   "journalAbbreviation": "Journal of Vocational Behavior",
-  "page": "103743",
   "source": "ScienceDirect",
   "title": "Regretting your occupation constructively: A qualitative study of career choice and occupational regret",
   "title-short": "Regretting your occupation constructively",
@@ -1312,7 +1299,8 @@
      1
     ]
    ]
-  }
+  },
+  "number": "103743"
  },
  {
   "id": "ref-d2db560b5b",
@@ -1322,7 +1310,6 @@
   "DOI": "10.1016/j.jvb.2022.103789",
   "ISSN": "0001-8791",
   "journalAbbreviation": "Journal of Vocational Behavior",
-  "page": "103789",
   "source": "ScienceDirect",
   "title": "Adapting careers to the COVID crisis: The impact of the pandemic on employees' career orientations",
   "title-short": "Adapting careers to the COVID crisis",
@@ -1355,7 +1342,8 @@
      1
     ]
    ]
-  }
+  },
+  "number": "103789"
  },
  {
   "id": "ref-197bc2324d",
@@ -1366,7 +1354,6 @@
   "ISSN": "0018-7267",
   "issue": "12",
   "language": "en",
-  "note": "publisher: SAGE Publications Ltd",
   "page": "1857-1886",
   "source": "SAGE Journals",
   "title": "Person-career fit and employee outcomes among research and development professionals",
@@ -1415,7 +1402,6 @@
   "issue": "2",
   "language": "en",
   "license": "© 2022 The Authors. Asia Pacific Journal of Human Resources published by John Wiley & Sons Australia, Ltd on behalf of Australian Human Resources Institute (AHRI).",
-  "note": "number: 2\n_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/1744-7941.12355",
   "page": "257-276",
   "source": "Wiley Online Library",
   "title": "Work, life and COVID-19: A rapid review and practical recommendations for the post-pandemic workplace",
@@ -1471,7 +1457,6 @@
   "ISSN": "1363-4593",
   "issue": "6",
   "journalAbbreviation": "Health: An Interdisciplinary Journal for the Social Study of Health, Illness and Medicine",
-  "note": "publisher: Sage Publications",
   "page": "773-790",
   "source": "EBSCOhost",
   "title": "Polyphonies of depression: The relationship between voices-of-the-self in young professional women aka ‘top girls’",
@@ -1506,8 +1491,6 @@
   "abstract": "Abstract   While prior literature identifies a person's alignment of their career with the interests of their employing organization as a source of career sustainability, we still know little about how individuals construe such alignment. Our study contributes to understanding of the sustainable career framework by conceptualizing individual career alignment as a narrative accomplishment. Building on an interview study of 34 consultants in a large management consulting firm, we identify four narrative approaches for construing alignment within this challenging organizational context: overidentifying, conforming, creating symbiosis, and moving on. Our findings elaborate the sustainable career framework by suggesting alignment narratives as a contextually situated expression of agency in people's striving for sustainable careers. We discuss implications for theory and practice.",
   "container-title": "Journal of Vocational Behavior",
   "DOI": "10.1016/j.jvb.2019.05.009",
-  "note": "DOI: 10.1016/j.jvb.2019.05.009\nMAG ID: 2946862095",
-  "page": "103312",
   "title": "Constructing alignment for sustainable careers: Insights from the career narratives of management consultants",
   "volume": "117",
   "author": [
@@ -1532,7 +1515,8 @@
      1
     ]
    ]
-  }
+  },
+  "number": "103312"
  },
  {
   "id": "ref-427cda25a4",
@@ -1542,7 +1526,6 @@
   "DOI": "10.1080/09548963.2020.1770577",
   "ISSN": "0954-8963",
   "issue": "2",
-  "note": "_eprint: https://doi.org/10.1080/09548963.2020.1770577",
   "page": "112-128",
   "publisher": "Routledge",
   "source": "Taylor and Francis+NEJM",
@@ -1589,7 +1572,7 @@
   "issue": "5",
   "language": "en",
   "page": "571-588",
-  "publisher": "SAGE Publications",
+  "publisher": "SAGE",
   "source": "SAGE Journals",
   "title": "A comparative method for themes saturation (CoMeTS) in qualitative interviews",
   "URL": "https://doi.org/10.1177/1468794116686650",
@@ -1632,7 +1615,6 @@
   "type": "webpage",
   "abstract": "The issue of mental health in management consulting has yet again come to the fore following the tragic news of a consultant in India who has committed suicide due to suspected “immense pressure” at",
   "language": "en",
-  "note": "section: Consulting",
   "title": "Young McKinsey consultant commits suicide due to 'work pressure'",
   "URL": "https://www.consultancy.in/news/4168/young-mckinsey-consultant-commits-suicide-due-to-work-pressure",
   "author": [
@@ -1668,7 +1650,6 @@
   "DOI": "10.1016/j.jvb.2019.103343",
   "ISSN": "0001-8791",
   "journalAbbreviation": "Journal of Vocational Behavior",
-  "page": "103343",
   "source": "ScienceDirect",
   "title": "Protean career orientation: Behavioral antecedents and employability outcomes",
   "title-short": "Protean career orientation",
@@ -1709,7 +1690,8 @@
      1
     ]
    ]
-  }
+  },
+  "number": "103343"
  },
  {
   "id": "ref-1e215e9dc7",
@@ -1758,7 +1740,6 @@
   "abstract": "Workplace Communication highlights how we can build interpersonal relationships through effective communication and why this is essential to workplace wellbeing. Well-supported by contemporary, reputable empirical studies, the book also comes with exercises and open-ended questions based on the subject matter. \nThe book\n\n\nprovides a comprehensive overview on creating an inclusive workplace and managing workplace diversity;\n\n\ncovers a wide range of salient, up-to-date reputable literature on a wide range of management and business topics;\n\n\ncontains practical, ‘road-tested’ activities to promote student reflection, experiential learning, critical thinking, research skills, and application of theory to practice and vice versa;\n\n\nexamines how we communicate effectively to an increasingly diverse workforce.\n\nDesigned for a broad audience, this book will appeal to academics and students in the fields of business management and communications. It will also be a useful reference for organisational practitioners and leaders.",
   "event-place": "London",
   "ISBN": "978-0-429-31894-8",
-  "note": "DOI: 10.4324/9780429318948",
   "number-of-pages": "304",
   "publisher": "Routledge",
   "publisher-place": "London",
@@ -1785,7 +1766,7 @@
   "type": "article-journal",
   "container-title": "Acta Psychologica",
   "journalAbbreviation": "Acta Psychologica",
-  "title": "Career shocks in the age of AI: A double-edged sword for job insecurity and career compromise.",
+  "title": "Career shocks in the age of AI: A double-edged sword for job insecurity and career compromise",
   "author": [
    {
     "family": "Cui",
@@ -1804,7 +1785,10 @@
      14
     ]
    ]
-  }
+  },
+  "DOI": "10.1016/j.actpsy.2025.105925",
+  "volume": "261",
+  "number": "105925"
  },
  {
   "id": "ref-24e72ff979",
@@ -1947,7 +1931,6 @@
   "DOI": "10.1016/j.jvb.2018.06.011",
   "ISSN": "0001-8791",
   "journalAbbreviation": "Journal of Vocational Behavior",
-  "page": "103196",
   "source": "ScienceDirect",
   "title": "Sustainable careers: Towards a conceptual model",
   "title-short": "Sustainable careers",
@@ -1984,7 +1967,8 @@
      1
     ]
    ]
-  }
+  },
+  "number": "103196"
  },
  {
   "id": "ref-c97ce56b9e",
@@ -1992,7 +1976,6 @@
   "abstract": "This paper approaches the sustainability of careers, departing from contemporary views on sustainable Human Resource Management (HRM) and key concepts in the current career literature. Recently, the notion of sustainable careers has gained attention as a key perspective on contemporary careers and is assumed to be critical for the resilience of individuals in an increasingly complex and unpredictable career environment. Viewing careers as an ecosystem in which several actors (individual, organization, labor market) are involved, this paper reviews current thinking on sustainable HRM to elaborate our thinking on sustainable careers. We highlight pertinent challenges for realizing continuity in careers that are: Firstly, becoming increasingly longer and less predictable; secondly, in general, less bounded to one organizational context and characterized by new ways of working; thirdly, putting an increased responsibility on the individual career actor; and finally, that have moved from a socially shared view on the meaning of career success as steady progression to a focus on personal meaning. We conclude that further research is important for understanding how different actors within the career ecosystem can help to ensure that the conditions for sustainability are met in view of creating a more resilient career system.",
   "container-title": "Current Opinion in Environmental Sustainability",
   "DOI": "10.1016/j.cosust.2017.07.003",
-  "note": "DOI: 10.1016/j.cosust.2017.07.003\nMAG ID: 2743422256",
   "page": "41-50",
   "title": "Current thinking on contemporary careers: The key roles of sustainable HRM and sustainability of careers",
   "volume": "28",
@@ -2021,32 +2004,29 @@
   "id": "ref-85a3444f06",
   "type": "book",
   "abstract": "What is a sustainable career and how can individuals and organizations develop pathways that lead to them? With current levels of global unemployment and the need for life-long learning and employability enhancement these questions assume a pressing significance. With twenty-eight chapters from leading scholars, the Handbook of Research on Sustainable Careers makes an important contribution to our understanding of sustainable careers and lays the foundation for the direction of future research. © Ans De Vos and Beatrice I.J.M. Van der Heijden 2015. All rights reserved.",
-  "archive": "Scopus",
-  "collection-title": "Handbook of Research on Sustainable Careers",
   "DOI": "10.4337/9781782547037",
   "ISBN": "978-1-78254-703-7",
   "language": "English",
-  "note": "page: 461",
-  "number-of-pages": "1",
   "source": "Scopus",
   "title": "Handbook of research on sustainable careers",
-  "author": [
-   {
-    "family": "De Vos",
-    "given": "A."
-   },
-   {
-    "family": "Van der Heijden",
-    "given": "B.I.J.M."
-   }
-  ],
   "issued": {
    "date-parts": [
     [
      "2015"
     ]
    ]
-  }
+  },
+  "editor": [
+   {
+    "family": "De Vos",
+    "given": "A."
+   },
+   {
+    "family": "Van der Heijden",
+    "given": "B. I. J. M."
+   }
+  ],
+  "publisher": "Edward Elgar"
  },
  {
   "id": "ref-8073ddc471",
@@ -2056,7 +2036,6 @@
   "DOI": "10.1037/0021-9010.86.3.499",
   "ISSN": "1939-1854",
   "issue": "3",
-  "note": "publisher-place: US",
   "page": "499-512",
   "publisher": "American Psychological Association",
   "source": "APA PsycNet",
@@ -2098,10 +2077,9 @@
   "ISSN": "08943796",
   "issue": "1",
   "journalAbbreviation": "Journal of Organizational Behavior (John Wiley & Sons, Inc.)",
-  "note": "publisher: John Wiley & Sons, Inc.",
   "page": "67-81",
   "source": "EBSCOhost",
-  "title": "Stayers versus movers: Social capital and early career imprinting among young professionals.",
+  "title": "Stayers versus movers: Social capital and early career imprinting among young professionals",
   "volume": "39",
   "author": [
    {
@@ -2125,12 +2103,11 @@
  {
   "id": "ref-005d707ad1",
   "type": "chapter",
-  "container-title": "The SAGE Handbook of Qualitative Research in Psychology",
-  "DOI": "10.4135/9781526405555",
+  "container-title": "The SAGE handbook of qualitative research in psychology",
+  "DOI": "10.4135/9781526405555.n30",
   "page": "520-540",
-  "publisher": "SAGE Publications Ltd",
-  "title": "The SAGE handbook of qualitative research in psychology",
-  "URL": "https://doi.org/10.4135/9781526405555",
+  "publisher": "SAGE",
+  "title": "Qualitative methods in organizational psychology",
   "author": [
    {
     "family": "Doldor",
@@ -2151,7 +2128,18 @@
      "2017"
     ]
    ]
-  }
+  },
+  "editor": [
+   {
+    "family": "Willig",
+    "given": "Carla"
+   },
+   {
+    "family": "Stainton Rogers",
+    "given": "Wendy"
+   }
+  ],
+  "edition": "2"
  },
  {
   "id": "ref-644f9a3ba2",
@@ -2161,7 +2149,6 @@
   "DOI": "10.1016/j.jvb.2024.103989",
   "ISSN": "0001-8791",
   "journalAbbreviation": "Journal of Vocational Behavior",
-  "page": "103989",
   "source": "ScienceDirect",
   "title": "Introducing a sustainable career ecosystem: Theoretical perspectives, conceptualization, and future research agenda",
   "title-short": "Introducing a sustainable career ecosystem",
@@ -2198,7 +2185,8 @@
      1
     ]
    ]
-  }
+  },
+  "number": "103989"
  },
  {
   "id": "ref-ac4b3998c5",
@@ -2249,13 +2237,11 @@
  {
   "id": "ref-7b47826fef",
   "type": "chapter",
-  "container-title": "The SAGE Handbook of Qualitative Research in Psychology",
+  "container-title": "The SAGE handbook of qualitative research in psychology",
   "edition": "2",
   "page": "193-209",
-  "publisher": "SAGE Publications Ltd,",
+  "publisher": "SAGE",
   "title": "Interpretative phenomenological analysis",
-  "URL": "https://doi.org/10.4135/9781526405555",
-  "volume": "0",
   "author": [
    {
     "family": "Eatough",
@@ -2272,7 +2258,18 @@
      "2017"
     ]
    ]
-  }
+  },
+  "DOI": "10.4135/9781526405555.n12",
+  "editor": [
+   {
+    "family": "Willig",
+    "given": "Carla"
+   },
+   {
+    "family": "Stainton Rogers",
+    "given": "Wendy"
+   }
+  ]
  },
  {
   "type": "thesis",
@@ -2304,7 +2301,6 @@
   "issue": "5",
   "journalAbbreviation": "J Management Studies",
   "language": "en",
-  "note": "number: 5",
   "page": "1383-1388",
   "source": "DOI.org (Crossref)",
   "title": "Researching the post‐pandemic professional service firm: Challenging our assumptions",
@@ -2341,7 +2337,6 @@
   "abstract": "Over the past three decades the Professional Service Firm (PSF) sector has emerged as one of the most rapidly growing, profitable, and significant in the global economy. In 2013 the accountancy, management consulting, legal, and architectural sectors alone generated revenues of US$ 1.6 trillion and employed 14 million people.  PSFs play an important role in developing human capital, creating innovative business services, reshaping government institutions, establishing and interpreting the rules of financial markets, and setting legal, accounting and other professional standards. The study of PSFs can offer insights into the contemporary challenges facing organizations within the knowledge economy, and deepen understanding of more conventional organizations. Despite their significance, however, PSFs have until recently remained very much in the shadows of organizational and management research.  The Oxford Handbook of Professional Service Firms marks the coming of age of PSF scholarship with a comprehensive and integrative exploration of current research and thinking on PSFs, featuring contributions from internationally renowned scholars in the fields of organizational and management studies. It is divided into three distinct sections - the professions, the firms, and the professionals that work within them - and covers subjects from governance and leadership to regulation, entrepreneurship, and diversity.  Bringing together a broad range of empirical and theoretical perspectives, the Handbook offers many potentially important insights into the contemporary challenges of organizations in the knowledge economy and suggests new lines of inquiry that may shed further light on the activities and performance of PSFs and the professionals who work within them.",
   "ISBN": "978-0-19-968239-3",
   "language": "en",
-  "note": "Google-Books-ID: RQsWCgAAQBAJ",
   "number-of-pages": "561",
   "publisher": "Oxford University Press",
   "source": "Google Books",
@@ -2409,15 +2404,12 @@
   "container-title": "Studies in Continuing Education",
   "DOI": "10.1080/0158037X.2023.2222068",
   "ISSN": "0158-037X",
-  "issue": "2",
-  "note": "_eprint: https://doi.org/10.1080/0158037X.2023.2222068",
   "page": "266-281",
   "publisher": "Routledge",
   "source": "Taylor and Francis+NEJM",
   "title": "Saving lives: An unsustainable profession – a study of transformative learning at work",
   "title-short": "Saving lives",
   "URL": "https://doi.org/10.1080/0158037X.2023.2222068",
-  "volume": "46",
   "author": [
    {
     "family": "Eschenbacher",
@@ -2439,7 +2431,9 @@
      "2023"
     ]
    ]
-  }
+  },
+  "volume": "46",
+  "issue": "2"
  },
  {
   "id": "ref-a0c20bfe4c",
@@ -2494,7 +2488,7 @@
   "issue": "2",
   "language": "EN",
   "page": "197-222",
-  "publisher": "SAGE Publications Ltd",
+  "publisher": "SAGE",
   "source": "SAGE Journals",
   "title": "Ontology in organization and management studies: A critical realist perspective",
   "title-short": "Ontology in Organization and Management Studies",
@@ -2534,7 +2528,6 @@
   "DOI": "10.1016/j.jvb.2021.103567",
   "ISSN": "0001-8791",
   "journalAbbreviation": "Journal of Vocational Behavior",
-  "page": "103567",
   "source": "ScienceDirect",
   "title": "Fiftieth anniversary issue: Editor-in-Chief's introduction to the special issue",
   "title-short": "Fiftieth anniversary issue",
@@ -2563,7 +2556,8 @@
      1
     ]
    ]
-  }
+  },
+  "number": "103567"
  },
  {
   "id": "ref-b833328f0d",
@@ -2573,8 +2567,7 @@
   "DOI": "10.1177/1609406920907254",
   "ISSN": "1609-4069",
   "language": "en",
-  "page": "1609406920907254",
-  "publisher": "SAGE Publications Inc",
+  "publisher": "SAGE",
   "source": "SAGE Journals",
   "title": "Capturing lived experience: Methodological considerations for interpretive phenomenological inquiry",
   "title-short": "Capturing Lived Experience",
@@ -2619,7 +2612,8 @@
      1
     ]
    ]
-  }
+  },
+  "number": "1609406920907254"
  },
  {
   "id": "ref-532761af7c",
@@ -2631,8 +2625,6 @@
   "issue": "12",
   "language": "en",
   "license": "http://creativecommons.org/licenses/by/3.0/",
-  "note": "number: 12",
-  "page": "7356",
   "publisher": "Multidisciplinary Digital Publishing Institute",
   "source": "www.mdpi.com",
   "title": "The importance of effective organizational socialization for preventing stress, strain, and early career burnout: An intensive longitudinal study of new professionals",
@@ -2677,7 +2669,8 @@
      1
     ]
    ]
-  }
+  },
+  "number": "7356"
  },
  {
   "id": "ref-e3d9ebb04f",
@@ -2687,7 +2680,6 @@
   "DOI": "10.1080/13645579.2015.1005453",
   "ISSN": "1364-5579",
   "issue": "6",
-  "note": "_eprint: https://doi.org/10.1080/13645579.2015.1005453",
   "page": "669–684",
   "publisher": "Routledge",
   "source": "Taylor and Francis+NEJM",
@@ -2732,7 +2724,6 @@
   "ISSN": "00018791",
   "journalAbbreviation": "Journal of Vocational Behavior",
   "language": "en",
-  "page": "103545",
   "source": "DOI.org (Crossref)",
   "title": "Making better career decisions: From challenges to opportunities",
   "title-short": "Making better career decisions",
@@ -2764,14 +2755,15 @@
      4
     ]
    ]
-  }
+  },
+  "number": "103545"
  },
  {
   "id": "ref-40a94dd922",
-  "type": "paper-conference",
+  "type": "speech",
   "abstract": "Theoretical Background & Research goals and why the work was worth doing: In today’s school-to-work transition (STWT), young professionals must adapt to continuous change and complexity, making their careers less defined and predictable than ever before (Akkermans et al., 2021; De Vos et al., 2019). However, despite this change to continuous learning, research in this area has predominantly focused on the STWT as a major one-off transition moment that emerging adults need to adapt to and navigate effectively (Hirschi, 2010; Johnston, 2016; Koen et al., 2012).However, adaptability is only one piece of the puzzle. Recent research suggests that emerging adults should be proactive in their careers (Akkermans et al., 2013; Akkermans & Tims, 2017; Blokker et al., 2019) to enhance their career success (Akkermans & Tims, 2017). As such, proactive behaviors might be the key for them to lay the foundation for a sustainable career (De Vos et al., 2020; Van der Heijden et al., 2020) characterized by happiness, health, and productivity (Van der Heijden, 2005). With this study, we aim to understand how emerging adults’ proactive behaviors may help them to achieve career sustainability during the STWT, and what hinders and enables those behaviors. Methodology: To capture how the behaviors of emerging adults develop during the STWT, we employed a longitudinal qualitative design. We interviewed 44 graduating students at a Dutch University of Applied Sciences twice, interviewing them six months before (T1, N = 44) and six months (T2, N = 36) after graduation. Additionally, we triangulated these data with nine focus groups (N = 56) and four interviews (N = 6) with stakeholders (i.e., parents, faculty/staff, potential employers, the ministry of education, etc.) to include a broader life context.The interviews at T1 tapped into the students’ proactive behaviors and career aspirations and explored the potential enabling and hindering factors toward a sustainable career. The T2 interviews focused on the development of health, happiness, and productivity during the STWT and what behaviors, motivations, and influences played an enabling or hindering role. The stakeholder focus groups and interviews allowed for a more nuanced and holistic understanding of the data that emerged from the T1 and T2 interviews. At this point, we have completed the data collection, transcribing, and coding. We aim to finish the analyses before the end of 2022. Results obtained and expected: Preliminary results suggest that, next to proactive behaviors, career competencies (Akkermans & Tims, 2017) seem to play an important role during emerging adults’ STWT. Interestingly, these competencies are not solely applied to their work and careers, but also to their private lives in general. This adds a broader perspective to the usage of career competencies. Concerning proactive behavior, we find that emerging adults report an increase in change-oriented behavior over time. Regarding the enabling and hindering factors, we see how family, the university itself, job/society pressure, and Covid-19 all influence emerging adults’ proactive behavior. For example, the university and its educational structures are considered one of the biggest hindrances toward proactive behavior due to its rigidity and the inherent (job)pressures it provides for emerging adults. Limitations: Due to research taking place within an Applied Sciences University, the findings might limit themselves to this specific population. That said, an effort has been made to use purposive sampling to have a qualitative representative sample herewith trying to maximize its generalizability. We consider the qualitative nature and in-depth approach a strength and are already eyeing possible quantitative future research possibilities. Research/practical implications: This study will provide new insights into how proactive behaviors can help emerging adults to lay a foundation for a sustainable career, and the role of key enablers and barriers in this process. Until now, STWT research has primarily focused on how competencies and behaviors influence one’s work and career. However, our results encourage a broader life perspective that includes one’s private life as well. These insights can be used to develop interventions to help students develop proactive behaviors toward a career in which they can remain happy, healthy, and productive. Originality/Value: This study is among the first to provide empirical evidence based on the conceptual model of sustainable careers described by De Vos et al. (2020). Moreover, we do so at a crucial career stage: the initial transition into work. Our findings will shed light on the interaction between individual and contextual factors that can shape school-to-work transitions in the contemporary career. Relevance to congress theme: As this research focuses on the abilities of the future labor force, it is critical they start their careers in a sustainable manner.",
   "source": "Vrije Universiteit Amsterdam",
-  "title": "Proactive behaviors towards a sustainable career across the school-to-work transition: European Association of Work and Organizational Psychology",
+  "title": "Proactive behaviors towards a sustainable career across the school-to-work transition",
   "title-short": "Proactive behaviors towards a sustainable career across the school-to-work transition",
   "author": [
    {
@@ -2802,7 +2794,9 @@
      5
     ]
    ]
-  }
+  },
+  "event-title": "European Association of Work and Organizational Psychology Congress",
+  "event-place": "Katowice, Poland"
  },
  {
   "id": "ref-5eafec3e89",
@@ -2811,7 +2805,6 @@
   "DOI": "10.1080/13678868.2021.1923165",
   "ISSN": "1367-8868",
   "issue": "3",
-  "note": "number: 3\npublisher: Routledge\n_eprint: https://doi.org/10.1080/13678868.2021.1923165",
   "page": "241-243",
   "source": "Taylor and Francis+NEJM",
   "title": "Protean career orientation and career shock due to the pandemic: HRD’s role in supporting intersectional identity work",
@@ -2853,7 +2846,7 @@
   "issue": "2",
   "language": "en",
   "page": "205-216",
-  "publisher": "SAGE Publications Ltd",
+  "publisher": "SAGE",
   "source": "SAGE Journals",
   "title": "Concepts and measurement: Ontology and epistemology",
   "title-short": "Concepts and measurement",
@@ -2963,7 +2956,11 @@
      18
     ]
    ]
-  }
+  },
+  "DOI": "10.1080/1360080x.2026.2616860",
+  "volume": "48",
+  "issue": "2–3",
+  "page": "381-395"
  },
  {
   "id": "ref-c0f81e222f",
@@ -2974,7 +2971,6 @@
   "ISSN": "0894-8453",
   "issue": "4",
   "language": "en",
-  "note": "publisher: SAGE Publications Inc",
   "page": "478-497",
   "source": "SAGE Journals",
   "title": "Advancing research on career sustainability",
@@ -3021,7 +3017,6 @@
   "DOI": "10.1016/j.jvb.2022.103692",
   "ISSN": "0001-8791",
   "journalAbbreviation": "Journal of Vocational Behavior",
-  "page": "103692",
   "source": "ScienceDirect",
   "title": "A qualitative exploration of solo self-employed workers' career sustainability",
   "URL": "https://www.sciencedirect.com/science/article/pii/S0001879122000033",
@@ -3070,7 +3065,8 @@
      1
     ]
    ]
-  }
+  },
+  "number": "103692"
  },
  {
   "id": "ref-5f50e2a23a",
@@ -3080,12 +3076,10 @@
   "DOI": "10.1002/hrdq.21436",
   "ISSN": "10448004",
   "issue": "4",
-  "note": "number: 4\npublisher: John Wiley & Sons, Inc.",
   "page": "577-595",
   "source": "EBSCOhost",
   "title": "Retaining the learning professional: A survival study on workplace learning in professional service firms",
   "title-short": "Retaining the learning professional",
-  "URL": "https://search.ebscohost.com/login.aspx?direct=true&AuthType=shib&db=bth&AN=153893275&site=ehost-live&custid=s1165276",
   "volume": "32",
   "author": [
    {
@@ -3128,7 +3122,6 @@
   "ISSN": "0044-118X",
   "issue": "5",
   "language": "en",
-  "note": "number: 5\npublisher: SAGE Publications Inc",
   "page": "795-819",
   "source": "SAGE Journals",
   "title": "Emerging adults embarking on their careers: Job and identity explorations in the transition to work",
@@ -3264,7 +3257,6 @@
   "DOI": "10.1016/j.jvb.2025.104125",
   "ISSN": "0001-8791",
   "journalAbbreviation": "Journal of Vocational Behavior",
-  "page": "104125",
   "source": "ScienceDirect",
   "title": "Navigating transitions: A longitudinal exploration of career decision-making process dynamics in adolescents",
   "title-short": "Navigating transitions",
@@ -3300,7 +3292,9 @@
      7
     ]
    ]
-  }
+  },
+  "number": "104125",
+  "volume": "159"
  },
  {
   "id": "ref-cce59dae9f",
@@ -3398,7 +3392,6 @@
   "DOI": "10.1108/HESWBL-05-2022-0101",
   "ISSN": "2042-3896",
   "issue": "2",
-  "note": "number: 2\npublisher: Emerald Publishing Limited",
   "page": "264-282",
   "source": "Emerald Insight",
   "title": "Workforce's crisis-induced career shock, career preferences, job insecurity, layoff and perceived employability: Examining variations based on gender, education level and ethnic origin",
@@ -3480,8 +3473,6 @@
   "abstract": "Sustainable careers are comprised of work experiences across one's lifespan that also intersect multiple life domains, notably: work, social, and family (Van der Heijden & De Vos, 2015). The creation of this contemporary notion was spurred by a combination of socio-economic factors, such as the increased complexity and globalization of business and labor markets, as well as more rapid rates of change within the world of work (Hall, Yip, & Doiron, 2018). These factors have put a premium on employee flexibility and accelerated the evolution of the conceptualization and experience of careers. Consistent with these trends, evidence for increased scholarly interest in sustainable careers is found in academic handbooks (De Vos & Van der Heijden, 2015; De Vos, Dujardin, Gielens, & Meyers, 2016) and major international conferences (e.g., Academy of Management, European Association of Work and Organizational Psychology, European Group of Organization Studies). This special issue is intended to take account of and advance this work by further developing the conceptual and empirical foundations of sustainable careers. What sets the sustainable career perspective apart from other career paradigms is its explicit and strong focus on both individual and contextual elements related to career management. Careers have and continue to be largely an individual-level phenomenon, which is reflected in research that predominantly focuses on what individuals can do to create successful and sustainable careers (cf. Spurk, Hirschi, & Dries, 2019). Despite this, however, employers play an important role in the sustainability of individuals’ careers across the lifespan, as they provide diverse work experiences, opportunities for development, and support for work-life balance (cf. Baruch, 2006). This scenario emphasizes the critical role of Human Resource Management and employer-supported career management in fostering employees’ productivity, health, and happiness in their careers (Van der Heijden, 2005) over time (i.e., sustainable careers, De Vos, Van der Heijden, & Akkermans, this special issue). Accordingly, fundamental to the sustainable career concept is shared responsibility between employers and employees (see e.g., Van der Heijden, 2005; Veld, Semeijn, & Van Vuuren, 2015). This special issue therefore aims to refine and advance the notion of sustainable careers using studies that illuminate both individual and organizational levels. In so doing, we show that the sustainable career construct complements rather than replaces existing career paradigms, such as protean (Hall, 2002), boundaryless (Arthur & Rousseau, 1996), and customized careers (Valcour, Bailyn, & Quijada, 2007), which, although acknowledging that careers are developing within working organizations, do not focus on its active role in this regard. Furthermore, and although the interplay between individual and organizational career management is paramount for developing career sustainability, a number of important questions remain unanswered. First, are sustainable careers beneficial for both employees and employers? Second, how do antecedents and outcomes of career sustainability change over one's lifespan? Third, how do planned activities versus unexpected events impact career sustainability? Answering these questions will advance research, practice, and policy related to career management. The remainder of this article is organized as follows. We first summarize and critically reflect on the contributions of the individual papers included in this special issue. This is then used to synthesize existing knowledge and present a coherent and more refined conceptualization of sustainable careers, which can then be used to guide future research and advance our knowledge and practice.",
   "container-title": "Journal of Vocational Behavior",
   "DOI": "10.1016/j.jvb.2019.103344",
-  "note": "DOI: 10.1016/j.jvb.2019.103344\nMAG ID: 2977785099",
-  "page": "103344",
   "title": "Sustainable careers across the lifespan: Moving the field forward",
   "volume": "117",
   "author": [
@@ -3524,7 +3515,8 @@
      17
     ]
    ]
-  }
+  },
+  "number": "103344"
  },
  {
   "id": "ref-db0ebe7c2c",
@@ -3536,7 +3528,6 @@
   "issue": "2",
   "language": "en",
   "license": "Copyright © 2005 John Wiley & Sons, Ltd.",
-  "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/job.270",
   "page": "113-136",
   "source": "Wiley Online Library",
   "title": "Conceptualizing and evaluating career success",
@@ -3624,8 +3615,6 @@
   "abstract": "Abstract   Developing a sustainable career necessitates actively considering nonwork roles relative to one's career. However, little is known about who is more or less likely to consider nonwork roles, and what consequences this entails for a sustainable career development. To address this issue, we investigated the nomological net of nonwork orientations (NWO) in two studies, with five samples (total N=2679). Study 1 explored the nomological net of NWO and found that among students and employees, people high in agreeableness more strongly considered the family and community role, whereas those high in extraversion and openness showed higher NWO for private life and community. Moreover, students and employees who endorsed self-transcendence work values scored higher on NWO. Study 2 examined how different combinations of NWO and work role commitment relate to work–nonwork conflict and enrichment with latent profile analysis. Across three samples including younger, age-heterogenous, and older workers, we identified five distinct profiles: average levels, work focused, personal life focused, family and personal life focused, and whole-life focused (i.e., high in NWO and work role commitment). Notably, people with a whole-life profile (between 6% and 29% of the samples) reported more work–nonwork enrichment, and a tendency for less work–nonwork conflict compared to individuals predominately focused on either work or personal life. Moreover, we found some meaningful age group differences which call for more research into lifespan dynamics in sustainable careers. Overall, the results of the studies help to better understand the meaning of NWO and how they relate to a sustainable approach to career development.",
   "container-title": "Journal of Vocational Behavior",
   "DOI": "10.1016/j.jvb.2019.103319",
-  "note": "DOI: 10.1016/j.jvb.2019.103319\nMAG ID: 2949228234",
-  "page": "103319",
   "title": "A whole-life perspective of sustainable careers: The nature and consequences of nonwork orientations",
   "volume": "117",
   "author": [
@@ -3654,7 +3643,8 @@
      1
     ]
    ]
-  }
+  },
+  "number": "103319"
  },
  {
   "id": "ref-c3f302a3da",
@@ -3664,7 +3654,6 @@
   "ISSN": "00018791",
   "journalAbbreviation": "Journal of Vocational Behavior",
   "language": "en",
-  "page": "103505",
   "source": "DOI.org (Crossref)",
   "title": "Contemporary career orientations and career self-management: A review and integration",
   "title-short": "Contemporary career orientations and career self-management",
@@ -3696,7 +3685,8 @@
      4
     ]
    ]
-  }
+  },
+  "number": "103505"
  },
  {
   "id": "ref-7a31f65b0d",
@@ -3705,11 +3695,9 @@
   "container-title": "New Zealand Journal of Psychology",
   "ISSN": "0112109X",
   "issue": "1",
-  "note": "number: 1\npublisher: New Zealand Psychological Society",
   "page": "59-68",
   "source": "EBSCOhost",
   "title": "The mediating role of work engagement and burnout in the relationship between job characteristics and psychological distress among lawyers",
-  "URL": "https://search.ebscohost.com/login.aspx?direct=true&AuthType=shib&db=a9h&AN=83770611&site=ehost-live&custid=s1165276",
   "volume": "41",
   "author": [
    {
@@ -3828,7 +3816,11 @@
      13
     ]
    ]
-  }
+  },
+  "DOI": "10.1108/cdi-06-2025-0323",
+  "volume": "31",
+  "issue": "4",
+  "page": "468-485"
  },
  {
   "id": "ref-7f91ed5047",
@@ -3840,7 +3832,6 @@
   "issue": "10",
   "language": "en",
   "license": "© 2010 The Author. Philosophy Compass © 2010 Blackwell Publishing Ltd",
-  "note": "_eprint: https://compass.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1747-9991.2010.00332.x",
   "page": "880-890",
   "source": "Wiley Online Library",
   "title": "What is ontological realism?",
@@ -3872,10 +3863,9 @@
  {
   "id": "ref-ea85f0684f",
   "type": "book",
-  "publisher": "macmillan",
+  "publisher": "Macmillan",
   "source": "Google Scholar",
   "title": "Thinking, fast and slow",
-  "URL": "https://scholar.google.com/scholar?cluster=3255681708785115121&hl=en&inst=10221179178710856615&inst=9428113868055358229&oi=scholarr",
   "author": [
    {
     "family": "Kahneman",
@@ -3953,7 +3943,6 @@
   "issue": "1",
   "language": "en",
   "license": "Copyright © 1998 John Wiley & Sons, Inc.",
-  "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/%28SICI%291098-240X%28199802%2921%3A1%3C91%3A%3AAID-NUR10%3E3.0.CO%3B2-C",
   "page": "91-97",
   "source": "Wiley Online Library",
   "title": "“Not as bad as it could have been”: Assessing and mitigating harm during research interviews on sensitive topics",
@@ -3995,8 +3984,7 @@
   "DOI": "10.1177/16094069221105075",
   "ISSN": "1609-4069",
   "language": "EN",
-  "page": "16094069221105075",
-  "publisher": "SAGE Publications Inc",
+  "publisher": "SAGE",
   "source": "SAGE Journals",
   "title": "From challenge to opportunity: Virtual qualitative research during COVID-19 and beyond",
   "title-short": "From Challenge to Opportunity",
@@ -4033,7 +4021,8 @@
      1
     ]
    ]
-  }
+  },
+  "number": "16094069221105075"
  },
  {
   "id": "ref-e46d86da8a",
@@ -4205,7 +4194,6 @@
   "DOI": "10.1080/00909882.2022.2141070",
   "ISSN": "0090-9882",
   "issue": "6",
-  "note": "number: 6\npublisher: Routledge\n_eprint: https://doi.org/10.1080/00909882.2022.2141070",
   "page": "691-710",
   "source": "Taylor and Francis+NEJM",
   "title": "The role of organizational and supervisor support in young adult workers’ resilience, efficacy and burnout during the COVID-19 pandemic",
@@ -4252,15 +4240,13 @@
   "id": "ref-a09d5777fd",
   "type": "article-journal",
   "abstract": "While researchers have begun to investigate theory and methods related to attenuating stress‐related issues at work, one underexplored area is a barrier to reporting stress‐related concerns in the workplace. Research on organizational climate broadly covers psychosocial safety at work. However, the literature has not examined other, more specific factors such as stigma towards reporting stress‐related concerns in the workplace. Using a prospective design, the current study examined the distinction between psychosocial safety climate (PSC) and stigmas surrounding reporting stress that may exist in organizations. Furthermore, we investigated whether PSC would buffer against the effects of such stigmas. The findings of this study indicate that stigma and PSC are distinct and can independently predict psychosocial outcomes. The results also indicate that PSC may play a role in attenuating the effects of these stigmas on some psychosocial outcomes. Implications and potential avenues for future research in this area are discussed. ABSTRACT FROM AUTHOR",
-  "container-title": "Stress & Health: Journal of the International Society for the Investigation of Stress",
+  "container-title": "Stress and Health",
   "ISSN": "15323005",
   "issue": "3",
-  "note": "number: 3\npublisher: John Wiley & Sons, Inc.",
   "page": "488-503",
   "source": "EBSCOhost",
   "title": "Psychosocial safety climate and stigma: Reporting stress‐related concerns at work",
   "title-short": "Psychosocial safety climate and stigma",
-  "URL": "https://search.ebscohost.com/login.aspx?direct=true&AuthType=shib&db=s3h&AN=151799466&site=ehost-live&custid=s1165276",
   "volume": "37",
   "author": [
    {
@@ -4304,7 +4290,8 @@
      8
     ]
    ]
-  }
+  },
+  "DOI": "10.1002/smi.3010"
  },
  {
   "id": "ref-7390c084de",
@@ -4366,7 +4353,6 @@
   "DOI": "10.1108/01437731111161085",
   "ISSN": "0143-7739",
   "issue": "6",
-  "note": "publisher: Emerald Group Publishing Limited",
   "page": "605-627",
   "source": "Emerald Insight",
   "title": "Young professionals' perceptions toward organizational change",
@@ -4469,7 +4455,6 @@
   "DOI": "10.1037/a0033446",
   "ISSN": "1939-2168",
   "issue": "4",
-  "note": "publisher-place: US\npublisher: American Psychological Association",
   "page": "557-568",
   "source": "APA PsycNet",
   "title": "Social cognitive model of career self-management: Toward a unifying view of adaptive career behavior across the life span",
@@ -4548,7 +4533,6 @@
   "DOI": "10.1016/j.jvb.2020.103448",
   "ISSN": "0001-8791",
   "journalAbbreviation": "Journal of Vocational Behavior",
-  "page": "103448",
   "source": "ScienceDirect",
   "title": "Career decision making, fast and slow: Toward an integrative model of intervention for sustainable career choice",
   "title-short": "Career decision making, fast and slow",
@@ -4581,7 +4565,8 @@
      1
     ]
    ]
-  }
+  },
+  "number": "103448"
  },
  {
   "id": "ref-fa157b12b2",
@@ -4593,7 +4578,7 @@
   "issue": "3",
   "language": "EN",
   "page": "539-559",
-  "publisher": "SAGE Publications Inc",
+  "publisher": "SAGE",
   "source": "SAGE Journals",
   "title": "Looking ahead, looking around, and looking to others: Identifying core proactive behaviors in the quest for career sustainability",
   "title-short": "Looking Ahead, Looking Around, and Looking to Others",
@@ -4647,7 +4632,6 @@
   "container-title": "Annual Review of Organizational Psychology and Organizational Behavior",
   "DOI": "10.1146/annurev-orgpsych-091922-015852",
   "issue": "1",
-  "note": "_eprint: https://doi.org/10.1146/annurev-orgpsych-091922-015852",
   "page": "193-219",
   "source": "Annual Reviews",
   "title": "How remote work changes the world of work",
@@ -4709,7 +4693,11 @@
      18
     ]
    ]
-  }
+  },
+  "DOI": "10.1080/1360080x.2025.2603992",
+  "volume": "48",
+  "issue": "2–3",
+  "page": "255-271"
  },
  {
   "id": "ref-8641d922c8",
@@ -4719,7 +4707,6 @@
   "DOI": "10.1037/apl0000896",
   "ISSN": "1939-1854",
   "issue": "3",
-  "note": "number: 3\npublisher-place: US\npublisher: American Psychological Association",
   "page": "317-329",
   "source": "APA PsycNet",
   "title": "The psychological implications of COVID-19 on employee job insecurity and its consequences: The mitigating role of organization adaptive practices",
@@ -4765,7 +4752,6 @@
   "issue": "30",
   "language": "en",
   "license": "Copyright © 1986 Wiley Periodicals, Inc.",
-  "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/ev.1427",
   "page": "73-84",
   "source": "Wiley Online Library",
   "title": "But is it rigorous? Trustworthiness and authenticity in naturalistic evaluation",
@@ -4811,8 +4797,7 @@
   "journalAbbreviation": "Engineering Studies",
   "page": "132-157",
   "source": "EBSCOhost",
-  "title": "Exploring the social and cultural dimensions of learning for recent engineering graduates during the school-to-work transition.",
-  "URL": "https://search.ebscohost.com/login.aspx?direct=true&AuthType=shib&db=sih&AN=152373866&site=ehost-live&custid=s1165276",
+  "title": "Exploring the social and cultural dimensions of learning for recent engineering graduates during the school-to-work transition",
   "volume": "13",
   "author": [
    {
@@ -4866,7 +4851,11 @@
      26
     ]
    ]
-  }
+  },
+  "DOI": "10.1108/pr-03-2025-0221",
+  "volume": "55",
+  "issue": "1",
+  "page": "240-263"
  },
  {
   "id": "ref-8731026b26",
@@ -4917,7 +4906,6 @@
   "issue": "2",
   "language": "en",
   "license": "© 2016 World Psychiatric Association",
-  "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/wps.20311",
   "page": "103-111",
   "source": "Wiley Online Library",
   "title": "Understanding the burnout experience: Recent research and its implications for psychiatry",
@@ -4961,7 +4949,6 @@
   "issue": "3",
   "language": "en",
   "license": "Copyright (c) 2010 Mark Mason",
-  "note": "number: 3",
   "source": "www.qualitative-research.net",
   "title": "Sample size and saturation in PhD studies using qualitative interviews",
   "URL": "https://www.qualitative-research.net/index.php/fqs/article/view/1428",
@@ -4989,7 +4976,8 @@
      24
     ]
    ]
-  }
+  },
+  "number": "8"
  },
  {
   "id": "ref-b4ed300fa3",
@@ -5215,7 +5203,7 @@
   "issue": "2",
   "language": "en",
   "page": "195-215",
-  "publisher": "SAGE Publications Inc",
+  "publisher": "SAGE",
   "source": "SAGE Journals",
   "title": "Qualitative researchers' conceptualizations of the risks inherent in qualitative interviews!",
   "URL": "https://doi.org/10.1525/irqr.2008.1.2.195",
@@ -5269,7 +5257,6 @@
   "DOI": "10.1016/j.jvb.2025.104182",
   "ISSN": "0001-8791",
   "journalAbbreviation": "Journal of Vocational Behavior",
-  "page": "104182",
   "source": "ScienceDirect",
   "title": "Under my umbrella? Gig workers' perspectives on career sustainability as employees in Swedish umbrella companies",
   "title-short": "Under my umbrella?",
@@ -5309,7 +5296,9 @@
      3
     ]
    ]
-  }
+  },
+  "number": "104182",
+  "volume": "163"
  },
  {
   "id": "ref-4313129abc",
@@ -5320,7 +5309,6 @@
   "ISSN": "0742051X",
   "journalAbbreviation": "Teaching and Teacher Education",
   "language": "en",
-  "page": "104655",
   "source": "DOI.org (Crossref)",
   "title": "Quitting with a crowd: An exploration of teachers’ resignation stories on TikTok",
   "title-short": "Quitting with a crowd",
@@ -5348,7 +5336,8 @@
      9
     ]
    ]
-  }
+  },
+  "number": "104655"
  },
  {
   "id": "ref-cd9c864bc1",
@@ -5378,7 +5367,7 @@
   "issue": "2",
   "language": "EN",
   "page": "175-220",
-  "publisher": "SAGE Publications Inc",
+  "publisher": "SAGE",
   "source": "SAGE Journals",
   "title": "Confirmation bias: A ubiquitous phenomenon in many guises",
   "title-short": "Confirmation Bias",
@@ -5462,7 +5451,6 @@
   "ISSN": "2051-8803, 2051-8811",
   "journalAbbreviation": "Journal of Professions and Organization",
   "language": "en",
-  "page": "jow010",
   "source": "DOI.org (Crossref)",
   "title": "Tackling the work-life balance challenge in professional service firms: The impact of projects, organizing, and service characteristics",
   "title-short": "Tackling the work-life balance challenge in professional service firms",
@@ -5541,7 +5529,6 @@
   "ISSN": "1076-2752",
   "issue": "7",
   "journalAbbreviation": "J OCCUP ENVIRON MED",
-  "note": "publisher-place: Baltimore, Maryland\npublisher: Lippincott Williams & Wilkins",
   "page": "621-627",
   "source": "EBSCOhost",
   "title": "Burnout and engagement's relationship to drug abuse in lawyers and law professionals",
@@ -5577,7 +5564,6 @@
   "DOI": "10.1108/CDI-10-2018-0271",
   "ISSN": "1362-0436",
   "issue": "4",
-  "note": "number: 4",
   "page": "514-539",
   "publisher": "Emerald Publishing Limited",
   "source": "Emerald Insight",
@@ -5668,7 +5654,6 @@
   "DOI": "10.1108/CDI-06-2021-0143",
   "ISSN": "1362-0436",
   "issue": "3",
-  "note": "number: 3\npublisher: Emerald Publishing Limited",
   "page": "372-390",
   "source": "Emerald Insight",
   "title": "Dust yourself off and try again: The positive process of career changes or shocks and career resilience",
@@ -5717,7 +5702,6 @@
   "ISSN": "1094-6705",
   "issue": "2",
   "language": "en",
-  "note": "publisher: SAGE Publications Inc",
   "page": "249-268",
   "source": "SAGE Journals",
   "title": "Enacting professional service work in times of digitalization and potential disruption",
@@ -5752,7 +5736,7 @@
   "id": "ref-10b2cac551",
   "type": "chapter",
   "abstract": "Ethical aspects include perspectives of subject protection and conducting research based on ethical standards. This chapter aims to highlight the ethical aspects of qualitative research, with particular emphasis on content analysis. The chapter begins by presenting four ethical principles—autonomy, non-maleficence, beneficence, and justice—that were first brought to attention by Beauchamp and Childress (Principles of biomedical ethics. Oxford University Press, New York, 2013). These principles form the basis for the protection of the subject in qualitative research. Next, Shamoon and Resnik’s (Responsible conduct of research. Oxford University Press, New York, 2015) principles for responsible research conduct are described. The ethical framework presented by Emanuel et al. (J Infect Dis 189:930–937, 2000; JAMA 283:2701–2711, 2004), which includes eight ethical requirements, is then introduced, and later used to explore the ethical aspects of content analysis based on an example of qualitative research. The chapter concludes by discussing several challenges that researchers may face when applying content analysis to qualitative research.",
-  "container-title": "The Application of Content Analysis in Nursing Science Research",
+  "container-title": "The application of content analysis in nursing science research",
   "DOI": "10.1007/978-3-030-30199-6_6",
   "ISBN": "978-3-030-30199-6",
   "language": "en",
@@ -5821,7 +5805,6 @@
   "ISSN": "0956-5221",
   "issue": "2",
   "journalAbbreviation": "Scandinavian Journal of Management",
-  "page": "101272",
   "source": "ScienceDirect",
   "title": "(Re)thinking transcription strategies: Current challenges and future research directions",
   "title-short": "(Re)thinking transcription strategies",
@@ -5854,7 +5837,8 @@
      1
     ]
    ]
-  }
+  },
+  "number": "101272"
  },
  {
   "id": "ref-fb4756fae4",
@@ -5866,7 +5850,7 @@
   "issue": "2",
   "journalAbbreviation": "Journal of Counseling Psychology",
   "language": "English",
-  "page": "126",
+  "page": "126-136",
   "publisher": "American Psychological Association, Inc.",
   "source": "EBSCOhost",
   "title": "Qualitative research in counseling psychology: A primer on research paradigms and philosophy of science",
@@ -5896,7 +5880,8 @@
      1
     ]
    ]
-  }
+  },
+  "DOI": "10.1037/0022-0167.52.2.126"
  },
  {
   "id": "ref-27f942f593",
@@ -6054,7 +6039,7 @@
   "number-of-pages": "106",
   "publisher": "University of Canterbury",
   "publisher-place": "Christchurch, New Zealand",
-  "title": "Thriving, not just surviving: Examining perceived support, mental illness disclosure, and individual workplace well-being.",
+  "title": "Thriving, not just surviving: Examining perceived support, mental illness disclosure, and individual workplace well-being",
   "title-short": "Perceived Support, Disclosure, and Well-being",
   "URL": "https://ir.canterbury.ac.nz/server/api/core/bitstreams/e767e226-7b01-45ac-a16a-45933bb70ee0/content",
   "author": [
@@ -6086,7 +6071,7 @@
   "page": "1623-1647",
   "publisher": "Wiley-Blackwell",
   "source": "EBSCOhost",
-  "title": "The five‐year itch: Motivational factors that influence the career decisions of early career teachers in England.",
+  "title": "The five‐year itch: Motivational factors that influence the career decisions of early career teachers in England",
   "title-short": "The five‐year itch",
   "URL": "https://research.ebsco.com/linkprocessor/plink?id=39cda09e-698a-3a51-becb-651a9d21d4bb",
   "author": [
@@ -6131,7 +6116,6 @@
   "container-title": "International journal of continuing engineering education and life-long learning",
   "DOI": "10.1504/ijceell.2016.078447",
   "issue": "3",
-  "note": "DOI: 10.1504/ijceell.2016.078447\nMAG ID: 2515950971",
   "page": "273",
   "title": "Learning as a lifelong process - meeting the challenges of the changing employability landscape: Competences, skills and knowledge for sustainable development",
   "volume": "26",
@@ -6162,12 +6146,10 @@
   "container-title": "Wake Forest Law Review",
   "ISSN": "0043003X",
   "issue": "4",
-  "note": "number: 4\npublisher: Wake Forest Law Review",
   "page": "719-732",
   "source": "EBSCOhost",
   "title": "Secondary trauma in lawyering: An introduction",
   "title-short": "Secondary Trauma in Lawyering",
-  "URL": "https://search.ebscohost.com/login.aspx?direct=true&AuthType=shib&db=bth&AN=154696078&site=ehost-live&custid=s1165276",
   "volume": "56",
   "author": [
    {
@@ -6290,7 +6272,6 @@
   "DOI": "10.1080/09585192.2019.1579247",
   "ISSN": "0958-5192",
   "issue": "9",
-  "note": "publisher: Routledge\n_eprint: https://doi.org/10.1080/09585192.2019.1579247",
   "page": "2046-2069",
   "source": "Taylor and Francis+NEJM",
   "title": "The effect of protean careers on talent retention: Examining the relationship between protean career orientation, organizational commitment, job satisfaction and intention to quit for talented workers",
@@ -6336,8 +6317,6 @@
   "abstract": "Abstract   Drawing on an international qualitative study of former professional athletes, this paper examines career sustainability in and after a career in professional sport. It examines the individual, contextual and temporal dimensions of career sustainability and interprets the findings through the Job-Demands-Resources Model, identifying the physical and psychological demands and resources of sporting careers. It demonstrates that some demands can simultaneously present as resources and introduces the concept of ‘social’ demands and resources, signaling their potential impact on short and long term career sustainability. While the paper suggests that the demands and resources of careers in professional sport limit career sustainability as a professional athlete, it also indicates that a short term career in sport does not preclude longer term career sustainability in other domains. The paper concludes by identifying opportunities for further investigation into the impact of short term careers on long term career sustainability in the broader labor market.",
   "container-title": "Journal of Vocational Behavior",
   "DOI": "10.1016/j.jvb.2019.06.002",
-  "note": "DOI: 10.1016/j.jvb.2019.06.002\nMAG ID: 2952020535",
-  "page": "103314",
   "title": "An exploration of career sustainability in and after professional sport",
   "volume": "117",
   "author": [
@@ -6358,7 +6337,8 @@
      1
     ]
    ]
-  }
+  },
+  "number": "103314"
  },
  {
   "id": "ref-c0407cee1d",
@@ -6416,8 +6396,7 @@
   "DOI": "10.1177/16094069211066170",
   "ISSN": "1609-4069",
   "language": "EN",
-  "page": "16094069211066170",
-  "publisher": "SAGE Publications Inc",
+  "publisher": "SAGE",
   "source": "SAGE Journals",
   "title": "Interviewee transcript review as a tool to improve data quality and participant confidence in sensitive research",
   "URL": "https://doi.org/10.1177/16094069211066170",
@@ -6445,7 +6424,8 @@
      1
     ]
    ]
-  }
+  },
+  "number": "16094069211066170"
  },
  {
   "id": "ref-46b7261499",
@@ -6480,7 +6460,11 @@
      29
     ]
    ]
-  }
+  },
+  "DOI": "10.1186/s40359-025-03172-3",
+  "volume": "13",
+  "issue": "1",
+  "number": "1192"
  },
  {
   "id": "ref-fbf9cf7f23",
@@ -6492,7 +6476,7 @@
   "issue": "5",
   "language": "EN",
   "page": "1253-1271",
-  "publisher": "SAGE Publications",
+  "publisher": "SAGE",
   "source": "SAGE Journals",
   "title": "The continuum of rapport: Ethical tensions in qualitative interviews with vulnerable participants",
   "title-short": "The continuum of rapport",
@@ -6539,7 +6523,6 @@
   "DOI": "10.1080/17459435.2012.719208",
   "ISSN": "1745-9435",
   "issue": "1",
-  "note": "_eprint: https://doi.org/10.1080/17459435.2012.719208",
   "page": "44-52",
   "publisher": "Routledge",
   "source": "Taylor and Francis+NEJM",
@@ -6593,7 +6576,6 @@
   "ISSN": "1099-0720",
   "issue": "2",
   "language": "en",
-  "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/acp.1340",
   "page": "277-287",
   "source": "Wiley Online Library",
   "title": "Cognitive aspects of survey methodology",
@@ -6629,7 +6611,6 @@
   "container-title": "Annual Review of Organizational Psychology and Organizational Behavior",
   "DOI": "10.1146/annurev-orgpsych-120920-051543",
   "issue": "1",
-  "note": "_eprint: https://doi.org/10.1146/annurev-orgpsych-120920-051543",
   "page": "509-534",
   "source": "Annual Reviews",
   "title": "Understanding contemporary career success: A critical review",
@@ -6768,7 +6749,6 @@
   "DOI": "10.1016/j.jss.2022.111552",
   "ISSN": "0164-1212",
   "journalAbbreviation": "Journal of Systems and Software",
-  "page": "111552",
   "source": "ScienceDirect",
   "title": "Work-from-home is here to stay: Call for flexibility in post-pandemic work policies",
   "title-short": "Work-from-home is here to stay",
@@ -6813,7 +6793,8 @@
      1
     ]
    ]
-  }
+  },
+  "number": "111552"
  },
  {
   "id": "ref-e60b3afbfd",
@@ -6824,7 +6805,6 @@
   "ISSN": "0149-2063",
   "issue": "1",
   "language": "EN",
-  "note": "publisher: SAGE Publications Inc",
   "page": "35-69",
   "source": "SAGE Journals",
   "title": "Antecedents and outcomes of objective versus subjective career success: Competing perspectives and future directions",
@@ -6894,7 +6874,6 @@
   "issue": "2",
   "language": "en",
   "license": "Copyright (c) 2022 Jamie Eggleston Stowe, Gene Sullivan, Stanley W. Self, Tonjua McCullough, Rachel Byers",
-  "note": "number: 2",
   "source": "articlegateway.com",
   "title": "Quantitative examination of age, gender, and emotional exhaustion in public accounting",
   "URL": "https://articlegateway.com/index.php/JOP/article/view/5171",
@@ -6949,7 +6928,6 @@
   "ISSN": "2051-8803",
   "issue": "2",
   "journalAbbreviation": "Journal of Professions and Organization",
-  "note": "number: 2",
   "page": "118-136",
   "source": "Silverchair",
   "title": "Crab antics? Contesting and perpetuating status hierarchies in professional service firms",
@@ -6994,7 +6972,6 @@
   "ISSN": "0950-0170",
   "issue": "2",
   "language": "en",
-  "note": "publisher: SAGE Publications Ltd",
   "page": "343-359",
   "source": "SAGE Journals",
   "title": "A matter of time: Young professionals’ experiences of long work hours",
@@ -7076,7 +7053,6 @@
   "DOI": "10.1016/j.jvb.2025.104157",
   "ISSN": "0001-8791",
   "journalAbbreviation": "Journal of Vocational Behavior",
-  "page": "104157",
   "source": "ScienceDirect",
   "title": "Navigating sustainable careers: A conceptual framework on person-career fit dynamics",
   "title-short": "Navigating sustainable careers",
@@ -7117,7 +7093,9 @@
      24
     ]
    ]
-  }
+  },
+  "number": "104157",
+  "volume": "162"
  },
  {
   "id": "ref-b25aa0fae0",
@@ -7227,7 +7205,6 @@
   "DOI": "10.1016/j.nepr.2025.104360",
   "ISSN": "1471-5953",
   "journalAbbreviation": "Nurse Education in Practice",
-  "page": "104360",
   "source": "ScienceDirect",
   "title": "Navigating a nursing career four years after graduation: A qualitative descriptive study exploring drivers of staying amid wanting to leave",
   "title-short": "Navigating a nursing career four years after graduation",
@@ -7308,7 +7285,8 @@
      1
     ]
    ]
-  }
+  },
+  "number": "104360"
  },
  {
   "id": "ref-e1dd4b5841",
@@ -7318,7 +7296,6 @@
   "DOI": "10.1111/hequ.12415",
   "ISSN": "09515224",
   "issue": "3",
-  "note": "number: 3",
   "page": "486-500",
   "source": "EBSCOhost",
   "title": "Graduating in uncertain times: The impact of COVID‐19 on recent graduate career prospects, trajectories and outcomes",
@@ -7355,7 +7332,6 @@
   "DOI": "10.1016/j.jvb.2020.103444",
   "ISSN": "0001-8791",
   "journalAbbreviation": "Journal of Vocational Behavior",
-  "page": "103444",
   "source": "ScienceDirect",
   "title": "The lagged influence of organizations' human resources practices on employees' career sustainability: The moderating role of age",
   "title-short": "The lagged influence of organizations' human resources practices on employees' career sustainability",
@@ -7400,7 +7376,8 @@
      1
     ]
    ]
-  }
+  },
+  "number": "103444"
  },
  {
   "id": "ref-e3524eeae8",
@@ -7501,8 +7478,6 @@
   "DOI": "10.1177/10690727241234929",
   "ISSN": "1069-0727",
   "language": "en",
-  "note": "publisher: SAGE Publications Inc",
-  "page": "3-31",
   "source": "SAGE Journals",
   "title": "Sustainable career trajectories in Switzerland: The role of psychological resources and sociodemographic characteristics",
   "title-short": "Sustainable Career Trajectories in Switzerland",
@@ -7539,22 +7514,22 @@
     ]
    ]
   },
+  "number": "10690727241234929",
   "volume": "33",
-  "issue": "1"
+  "issue": "1",
+  "page": "3-31"
  },
  {
   "id": "ref-c65bf2f91f",
   "type": "chapter",
-  "archive": "Scopus",
-  "container-title": "Handbook of Research on Sustainable Careers",
+  "container-title": "Handbook of research on sustainable careers",
   "DOI": "10.4337/9781782547037.00006",
   "page": "1-19",
   "title": "Sustainable careers: Introductory chapter",
-  "URL": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85028854890&doi=10.4337%2f9781782547037.00006&partnerID=40&md5=10e71cb4d768517899d26df94d3138b9",
   "author": [
    {
     "family": "Van der Heijden",
-    "given": "B.I.J.M."
+    "given": "B. I. J. M."
    },
    {
     "family": "De Vos",
@@ -7567,7 +7542,18 @@
      "2015"
     ]
    ]
-  }
+  },
+  "editor": [
+   {
+    "family": "De Vos",
+    "given": "A."
+   },
+   {
+    "family": "Van der Heijden",
+    "given": "B. I. J. M."
+   }
+  ],
+  "publisher": "Edward Elgar"
  },
  {
   "id": "ref-fe8aea592f",
@@ -7594,7 +7580,11 @@
      12
     ]
    ]
-  }
+  },
+  "DOI": "10.1080/1360080x.2026.2627771",
+  "volume": "48",
+  "issue": "2–3",
+  "page": "125-134"
  },
  {
   "id": "ref-f1684c7bca",
@@ -7606,7 +7596,6 @@
   "issue": "8",
   "language": "en",
   "license": "© 2024 The Author(s). Journal of Advanced Nursing published by John Wiley & Sons Ltd.",
-  "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/jan.16481",
   "page": "5181-5195",
   "source": "Wiley Online Library",
   "title": "A worked example of qualitative descriptive design: A step-by-step guide for novice and early career researchers",
@@ -7696,7 +7685,6 @@
   "DOI": "10.1080/10301763.2020.1772701",
   "ISSN": "1030-1763",
   "issue": "2",
-  "note": "number: 2\npublisher: Routledge\n_eprint: https://doi.org/10.1080/10301763.2020.1772701",
   "page": "174-184",
   "source": "Taylor and Francis+NEJM",
   "title": "Successful social media resistance: Implications for employee voice",
@@ -7735,7 +7723,6 @@
   "container-title": "Harvard Business Review",
   "ISSN": "00178012",
   "issue": "2",
-  "note": "publisher: Harvard Business School Publication Corp.",
   "page": "58-67",
   "source": "EBSCOhost",
   "title": "Beware a culture of busyness",
@@ -7840,25 +7827,30 @@
  {
   "id": "ref-74b40a6cdf",
   "type": "book",
-  "edition": "2nd edition",
+  "edition": "2",
   "ISBN": "978-1-4739-2521-2",
-  "publisher": "SAGE Inc",
+  "publisher": "SAGE",
   "publisher-place": "Thousand Oaks, CA",
   "source": "Library of Congress ISBN",
-  "title": "The Sage handbook of qualitative research in psychology, 2e",
-  "author": [
-   {
-    "family": "Willig",
-    "given": "Carla"
-   }
-  ],
+  "title": "The SAGE handbook of qualitative research in psychology",
   "issued": {
    "date-parts": [
     [
      "2017"
     ]
    ]
-  }
+  },
+  "editor": [
+   {
+    "family": "Willig",
+    "given": "Carla"
+   },
+   {
+    "family": "Stainton Rogers",
+    "given": "Wendy"
+   }
+  ],
+  "DOI": "10.4135/9781526405555"
  },
  {
   "id": "ref-c88a9c41aa",
@@ -7868,7 +7860,6 @@
   "DOI": "10.1037/apl0001045",
   "ISSN": "1939-1854",
   "issue": "5",
-  "note": "number: 5\npublisher-place: US\npublisher: American Psychological Association",
   "page": "850-870",
   "source": "APA PsycNet",
   "title": "The rise of robots increases job insecurity and maladaptive workplace behaviors: Multimethod evidence",
@@ -7912,7 +7903,6 @@
   "DOI": "10.1108/JCRE-04-2021-0015",
   "ISSN": "1463001X",
   "issue": "1",
-  "note": "number: 1",
   "page": "50-76",
   "source": "EBSCOhost",
   "title": "Does working from home work? Experience of working from home and the value of hybrid workplace post-COVID-19",
@@ -7962,7 +7952,8 @@
      22
     ]
    ]
-  }
+  },
+  "DOI": "10.1002/hrdq.70010"
  },
  {
   "id": "ref-fa0e4208a1",
@@ -8013,7 +8004,6 @@
   "DOI": "10.1108/JCOM-11-2020-0142",
   "ISSN": "1363-254X",
   "issue": "4",
-  "note": "number: 4",
   "page": "335-352",
   "publisher": "Emerald Publishing Limited",
   "source": "Emerald Insight",
