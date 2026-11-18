@@ -1,0 +1,13 @@
+{
+  "name": "phd-references",
+  "version": "1.0.0",
+  "description": "APA 7 reference list built from Zotero citations in current drafts",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "dependencies": {
+    "@citation-js/core": "^0.7.18",
+    "@citation-js/plugin-csl": "^0.7.18"
+  },
+  "private": true
+}

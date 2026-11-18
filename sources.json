@@ -1,0 +1,30 @@
+{
+  "root": "~/Desktop/PhD",
+  "documents": [
+    {
+      "label": "Chapter 1",
+      "folder": "Thesis/Chapter 1",
+      "match": "^Chapter 1 Draft v(\\d+) \\(\\d{2}[A-Za-z]{3}\\d{2}\\)\\.docx$"
+    },
+    {
+      "label": "Chapter 2",
+      "folder": "Thesis/Chapter 2",
+      "match": "^Chapter 2 Draft v(\\d+) \\(\\d{2}[A-Za-z]{3}\\d{2}\\)\\.docx$"
+    },
+    {
+      "label": "Chapter 3",
+      "folder": "Thesis/Chapter 3",
+      "match": "^Chapter 3 Draft v(\\d+) \\(\\d{2}[A-Za-z]{3}\\d{2}\\)\\.docx$"
+    },
+    {
+      "label": "AOM 2026 paper",
+      "folder": "AOM 2026/01 Paper & Submission",
+      "match": "^\\d{4}-\\d{2}-\\d{2} AOM Paper v(\\d+)( \\(.*\\))?\\.docx$"
+    },
+    {
+      "label": "ANZOPOB 2026",
+      "folder": "ANZOPOB",
+      "match": "^ANZOPOB 2026 v(\\d+)\\.docx$"
+    }
+  ]
+}
